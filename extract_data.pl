@@ -32,6 +32,10 @@ while (my $row = <$fh>) {
             {
                 $ArrayofHashes[$count-1]{'raw'} = $record_str;
             }
+            if ((exists $ArrayofHashes[$count-1]{'eur'}) and  (exists $ArrayofHashes[$count-1]{'mp'}))
+            {
+                $ArrayofHashes[$count-1]{'rap'} = ($ArrayofHashes[$count-1]{'eur'} * 1000 ) / $ArrayofHashes[$count-1]{'mp'};
+            }
         }
         $record_str = "";
         $record_str .= $row."\n";
@@ -63,6 +67,12 @@ while (my $row = <$fh>) {
             {
                 $ArrayofHashes[$count]{'raw'} = $record_str;
             }
+
+            if ((exists $ArrayofHashes[$count]{'eur'}) and  (exists $ArrayofHashes[$count]{'mp'}))
+            {
+                $ArrayofHashes[$count]{'rap'} = ( $ArrayofHashes[$count]{'eur'} * 1000 ) / $ArrayofHashes[$count]{'mp'};
+            }
+            
         }
         last;
     }

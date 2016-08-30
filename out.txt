@@ -1,0 +1,489 @@
+
+
+Dump
+
+[ 0 ]  eur--->  62.829   
+[ 0 ]  mp--->  56.4   
+[ 0 ]  nrcamere--->  2   
+[ 0 ]  rap--->  1113.98936170213   
+[ 0 ]  raw--->  [158]Apartament cu 2 camere de vanzare in zona Braytim
+
+   Timisoara, zona Braytim
+     * 2 camere
+     * 56.4 mp utili
+     * Etaj 2/2
+     * Decomandat
+     * Bloc nou
+
+   62.829 EUR
+   Comision 0%
+   [159]Vezi detalii [160]Vezi telefon
+   Publicat de Sodolescu Imobiliare si Constructii Srl
+   [161]Sună
+   Publicat de Sodolescu Imobiliare si Constructii Srl
+   TOP LISTING
+     * 16
+
+   [162]Apartament de vânzare 4 camere, în Timisoara, zona Aradului
+   Hitch&Mosher
+
+   
+[ 0 ]  title--->  [158]Apartament cu 2 camere de vanzare in zona Braytim   
+[ 0 ]  zona--->     Timisoara, zona Braytim   
+
+[ 1 ]  eur--->  83.000   
+[ 1 ]  mp--->  76   
+[ 1 ]  nrcamere--->  4   
+[ 1 ]  rap--->  1092.10526315789   
+[ 1 ]  raw--->  [163]De vanzare apartament cu 4 camere, mobilat si utilat, LUX - zona
+Aradului
+
+   Timisoara, zona Aradului
+     * 4 camere
+     * 76 mp utili
+     * Etaj 2/4
+     * Decomandat
+
+   83.000 EUR
+   [164]Vezi detalii [165]Vezi telefon
+   Publicat de Hitch&Mosher
+   [166]Sună
+   Publicat de Hitch&Mosher
+   TOP LISTING
+     * 16
+
+   [167]Apartament de vânzare 4 camere, în Timisoara, zona Aradului
+   
+   
+[ 1 ]  title--->  [163]De vanzare apartament cu 4 camere, mobilat si utilat, LUX - zona   
+[ 1 ]  zona--->     Timisoara, zona Aradului   
+
+[ 2 ]  eur--->  85.000   
+[ 2 ]  mp--->  76   
+[ 2 ]  nrcamere--->  4   
+[ 2 ]  rap--->  1118.42105263158   
+[ 2 ]  raw--->  [168]Apartament 4 camere, etaj 2, lux
+
+   Timisoara, zona Aradului
+     * 4 camere
+     * 76 mp utili
+     * Etaj 2/4
+     * Decomandat
+
+   85.000 EUR
+   Comision 0%
+   [169]Vezi detalii [170]Vezi telefon
+   Publicat de
+   [171]Sună
+   Publicat de
+   TOP LISTING
+     * 10
+
+   [172]Apartament de vânzare 3 camere, în Timisoara, zona Dorobantilor
+   
+   
+[ 2 ]  title--->  [168]Apartament 4 camere, etaj 2, lux   
+[ 2 ]  zona--->     Timisoara, zona Aradului   
+
+[ 3 ]  eur--->  79.000   
+[ 3 ]  mp--->  68   
+[ 3 ]  nrcamere--->  3   
+[ 3 ]  rap--->  1161.76470588235   
+[ 3 ]  raw--->  [173]Chic Residence - Apartament 3 camere in Timisoara, Comision 0%
+
+   Timisoara, zona Dorobantilor
+     * 3 camere
+     * 68 mp utili
+     * Etaj 2/4
+     * Bloc nou
+
+   79.000 EUR
+   Comision 0%
+   [174]Vezi detalii [175]Vezi telefon
+   Publicat de
+   [176]Sună
+   Publicat de
+   TOP LISTING
+     * 11
+
+   [177]Apartament de vânzare 3 camere, în Timisoara, zona Braytim
+   Sodolescu Imobiliare si Constructii Srl
+
+   
+[ 3 ]  title--->  [173]Chic Residence - Apartament 3 camere in Timisoara, Comision 0%   
+[ 3 ]  zona--->     Timisoara, zona Dorobantilor   
+
+[ 4 ]  eur--->  82.974   
+[ 4 ]  mp--->  73.8   
+[ 4 ]  nrcamere--->  3   
+[ 4 ]  rap--->  1124.30894308943   
+[ 4 ]  raw--->  [178]Apartament cu 3 camere de vanzare in zona Braytim
+
+   Timisoara, zona Braytim
+     * 3 camere
+     * 73.8 mp utili
+     * Parter/2
+     * Decomandat
+     * Bloc nou
+
+   82.974 EUR
+   Comision 0%
+   [179]Vezi detalii [180]Vezi telefon
+   Publicat de Sodolescu Imobiliare si Constructii Srl
+   [181]Sună
+   Publicat de Sodolescu Imobiliare si Constructii Srl
+   [182]Apartament de vânzare 3 camere, în Timisoara, zona Braytim
+   Promo Ansambluri
+
+   
+[ 4 ]  title--->  [178]Apartament cu 3 camere de vanzare in zona Braytim   
+[ 4 ]  zona--->     Timisoara, zona Braytim   
+
+[ 5 ]  raw--->  [183]Ansamblul rezidential Milano
+
+   Ansamblul rezidenţial Milano, se încadrează în filozofia
+   dezvoltatorului, de a construi locuinţe cu profesionalism şi materia...
+     * Ansamblul rezidential Milano - 1
+     * Ansamblul rezidential Milano - 2
+     * Ansamblul rezidential Milano - 3
+
+   [184]Vezi detalii
+
+   Publicat de Sodolescu Constructii si Imobiliare
+   Sodolescu Constructii si Imobiliare
+
+   Sodolescu Constructii si Imobiliare
+   Promo ansambluri
+   [185]Ansambluri rezidenţiale în Timisoara
+   TOP LISTING
+     * 16
+
+   [186]Apartament de vânzare 2 camere, în Timisoara, zona I. I. de la
+   Brad
+   Sodolescu Imobiliare si Constructii Srl
+
+   
+[ 5 ]  title--->  [183]Ansamblul rezidential Milano   
+[ 5 ]  zona--->     [186]Apartament de vânzare 2 camere, în Timisoara, zona I. I. de la   
+
+[ 6 ]  eur--->  68.323   
+[ 6 ]  mp--->  61.68   
+[ 6 ]  nrcamere--->  2   
+[ 6 ]  rap--->  1107.70103761349   
+[ 6 ]  raw--->  [187]Apartament cu 2 camere de vanzare in zona I. I. de la Brad
+
+   Timisoara, zona I. I. de la Brad
+     * 2 camere
+     * 61.68 mp utili
+     * Etaj 1/3
+     * Decomandat
+     * Bloc nou
+
+   68.323 EUR + TVA
+   Comision 0%
+   [188]Vezi detalii [189]Vezi telefon
+   Publicat de Sodolescu Imobiliare si Constructii Srl
+   [190]Sună
+     * [191]Apartament de vânzare 2 camere, în Timisoara, zona I. I. de la
+       Brad
+       67.627 EUR + TVA
+       2 camere , 61.06 mp utili
+     * [192]Apartament de vânzare 2 camere, în Timisoara, zona I. I. de la
+       Brad
+       66.066 EUR + TVA
+       2 camere , 59.52 mp utili
+     * [193]Apartament de vânzare 2 camere, în Timisoara, zona I. I. de la
+       Brad
+       65.621 EUR + TVA
+       2 camere , 59.11 mp utili
+       
+   Mai multe apartamente din
+   [194]Rivendelle Residence
+   [gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==]
+   Publicat de Sodolescu Imobiliare si Constructii Srl
+   TOP LISTING
+     * 12
+
+   [195]Apartament de vânzare 3 camere, în Timisoara, zona Lipovei
+   
+   
+[ 6 ]  title--->  [187]Apartament cu 2 camere de vanzare in zona I. I. de la Brad   
+[ 6 ]  zona--->     Timisoara, zona I. I. de la Brad   
+
+[ 7 ]  eur--->  63.000   
+[ 7 ]  mp--->  60   
+[ 7 ]  nrcamere--->  3   
+[ 7 ]  rap--->  1050   
+[ 7 ]  raw--->  [196]Lipovei-Pomiculturii, 3 camere cu centrala termica
+
+   Timisoara, zona Lipovei
+     * 3 camere
+     * 60 mp utili
+     * Etaj 2/4
+     * Decomandat
+
+   63.000 EUR
+   [197]Vezi detalii [198]Vezi telefon
+   Publicat de SC IOSEFIN IMOBILIARE SRL
+   [199]Sună
+   Publicat de SC IOSEFIN IMOBILIARE SRL
+   TOP LISTING
+     * 12
+
+   [200]Apartament de vânzare 5 camere, în Timisoara, zona Balcescu
+   Hitch&Mosher
+
+   
+[ 7 ]  title--->  [196]Lipovei-Pomiculturii, 3 camere cu centrala termica   
+[ 7 ]  zona--->     Timisoara, zona Lipovei   
+
+[ 8 ]  eur--->  122.000   
+[ 8 ]  mp--->  140   
+[ 8 ]  nrcamere--->  5   
+[ 8 ]  rap--->  871.428571428571   
+[ 8 ]  raw--->  [201]De vanzare apartament in Timisoara, spatios, langa Parcul Doina
+
+   Timisoara, zona Balcescu
+     * 5 camere
+     * 140 mp utili
+     * Parter
+     * Circular
+
+   122.000 EUR
+   [202]Vezi detalii [203]Vezi telefon
+   Publicat de Hitch&Mosher
+   [204]Sună
+   Publicat de Hitch&Mosher
+   TOP LISTING
+     * 8
+
+   [205]Apartament de vânzare 2 camere, în Timisoara, zona Central
+   
+   
+[ 8 ]  title--->  [201]De vanzare apartament in Timisoara, spatios, langa Parcul Doina   
+[ 8 ]  zona--->     Timisoara, zona Balcescu   
+
+[ 9 ]  eur--->  54.900   
+[ 9 ]  mp--->  50   
+[ 9 ]  nrcamere--->  2   
+[ 9 ]  rap--->  1098   
+[ 9 ]  raw--->  [206]Proprietar, 2 camere, central, vand / schimb cu apartament o camera
+
+   Timisoara, zona Central
+     * 2 camere
+     * 50 mp utili
+     * Parter/4
+     * Semidecomandat
+
+   54.900 EUR
+   Comision 0%
+   [207]Vezi detalii [208]Vezi telefon
+   Publicat de
+   [209]Sună
+   Publicat de
+   TOP LISTING
+     * 11
+
+   [210]Apartament de vânzare 5 camere, în Timisoara, zona Central
+   
+   
+[ 9 ]  title--->  [206]Proprietar, 2 camere, central, vand / schimb cu apartament o camera   
+[ 9 ]  zona--->     Timisoara, zona Central   
+
+[ 10 ]  eur--->  199.000   
+[ 10 ]  mp--->  247   
+[ 10 ]  nrcamere--->  5   
+[ 10 ]  rap--->  805.668016194332   
+[ 10 ]  raw--->  [211]Apartament 5 camere, 247 mp - Take Ionescu
+
+   Timisoara, zona Central
+     * 5 camere
+     * 247 mp utili
+     * Etaj 6/6
+     * Decomandat
+     * Bloc nou
+
+   199.000 EUR + TVA
+   [DEL: Preţ vechi: 210.000 EUR+TVA :DEL]
+   Preţ nou: 199.000 EUR + TVA
+   Comision 0%
+   [212]Vezi detalii [213]Vezi telefon
+   Publicat de Banca Comerciala Romana S.A. - DAM
+   [214]Sună
+   Publicat de Banca Comerciala Romana S.A. - DAM
+   TOP LISTING
+     * 13
+
+   [215]Apartament de vânzare 3 camere, în Timisoara, zona Garii
+   EUGENE ESTATE #1
+
+   
+[ 10 ]  title--->  [211]Apartament 5 camere, 247 mp - Take Ionescu   
+[ 10 ]  zona--->     Timisoara, zona Central   
+
+[ 11 ]  eur--->  83.000   
+[ 11 ]  mp--->  81   
+[ 11 ]  nrcamere--->  3   
+[ 11 ]  rap--->  1024.69135802469   
+[ 11 ]  raw--->  [216]Zona Garii, bloc nou, amenajat.
+
+   Timisoara, zona Garii
+     * 3 camere
+     * 81 mp utili
+     * Etaj 2/5
+     * Decomandat
+     * Bloc nou
+
+   83.000 EUR
+   [217]Vezi detalii [218]Vezi telefon
+   Publicat de EUGENE ESTATE #1
+   [219]Sună
+   Publicat de EUGENE ESTATE #1
+   TOP LISTING
+     * 12
+
+   [220]Apartament de vânzare 4 camere, în Timisoara, zona Fabric
+   EUGENE ESTATE #1
+
+   
+[ 11 ]  title--->  [216]Zona Garii, bloc nou, amenajat.   
+[ 11 ]  zona--->     Timisoara, zona Garii   
+
+[ 12 ]  eur--->  95.000   
+[ 12 ]  mp--->  133   
+[ 12 ]  nrcamere--->  4   
+[ 12 ]  rap--->  714.285714285714   
+[ 12 ]  raw--->  [221]Zona Neptun-Medicina,excelent pentru investitie
+
+   Timisoara, zona Fabric
+     * 4 camere
+     * 133 mp utili
+     * Etaj 1/3
+     * Circular
+
+   95.000 EUR
+   [222]Vezi detalii [223]Vezi telefon
+   Publicat de EUGENE ESTATE #1
+   [224]Sună
+   Publicat de EUGENE ESTATE #1
+   TOP LISTING
+     * 15
+
+   [225]Apartament de vânzare 3 camere, în Timisoara, zona Bucovina
+   CORALES
+
+   
+[ 12 ]  title--->  [221]Zona Neptun-Medicina,excelent pentru investitie   
+[ 12 ]  zona--->     Timisoara, zona Fabric   
+
+[ 13 ]  eur--->  70.000   
+[ 13 ]  mp--->  64   
+[ 13 ]  nrcamere--->  3   
+[ 13 ]  rap--->  1093.75   
+[ 13 ]  raw--->  [226]Centrala proprie.Decomandat.Mobilat si utilat
+
+   Timisoara, zona Bucovina
+     * 3 camere
+     * 64 mp utili
+     * Etaj 2/4
+     * Decomandat
+
+   70.000 EUR
+   [227]Vezi detalii [228]Vezi telefon
+   Publicat de CORALES
+   [229]Sună
+   Publicat de CORALES
+   TOP LISTING
+     * 15
+
+   [230]Apartament de vânzare 4 camere, în Timisoara, zona Mircea cel
+   Batran
+   EUGENE ESTATE #1
+
+   
+[ 13 ]  title--->  [226]Centrala proprie.Decomandat.Mobilat si utilat   
+[ 13 ]  zona--->     Timisoara, zona Bucovina   
+
+[ 14 ]  eur--->  71.000   
+[ 14 ]  mp--->  80   
+[ 14 ]  nrcamere--->  4   
+[ 14 ]  rap--->  887.5   
+[ 14 ]  raw--->  [231]Oferta: 4 camere,zona Mircea cel Batran,pozitie excelenta
+
+   Timisoara, zona Mircea cel Batran
+     * 4 camere
+     * 80 mp utili
+     * Parter/4
+     * Decomandat
+
+   71.000 EUR
+   [232]Vezi detalii [233]Vezi telefon
+   Publicat de EUGENE ESTATE #1
+   [234]Sună
+   Publicat de EUGENE ESTATE #1
+   [235]Apartament de vânzare 4 camere, în Timisoara, zona Mircea cel
+   Batran
+   Promo Ansambluri
+
+   
+[ 14 ]  title--->  [231]Oferta: 4 camere,zona Mircea cel Batran,pozitie excelenta   
+[ 14 ]  zona--->     Timisoara, zona Mircea cel Batran   
+
+[ 15 ]  raw--->  [236]Rivendelle Residence
+
+   Rivendelle Residence - Confort, siguranţă şi servicii premium într-un
+   altfel de ansamblu rezidenţial în Timişoara!
+     * Rivendelle Residence - 1
+     * Rivendelle Residence - 2
+     * Rivendelle Residence - 3
+
+   [237]Vezi detalii
+
+   Publicat de Sodolescu Constructii si Imobiliare
+   Sodolescu Constructii si Imobiliare
+
+   Sodolescu Constructii si Imobiliare
+   Promo ansambluri
+   [238]Ansambluri rezidenţiale în Timisoara
+   TOP LISTING
+     * 10
+
+   [239]Apartament de vânzare 3 camere, în Timisoara, zona Garii
+   EUGENE ESTATE #1
+
+   
+[ 15 ]  title--->  [236]Rivendelle Residence   
+[ 15 ]  zona--->     [239]Apartament de vânzare 3 camere, în Timisoara, zona Garii   
+
+[ 16 ]  eur--->  56.000   
+[ 16 ]  mp--->  80   
+[ 16 ]  nrcamere--->  3   
+[ 16 ]  rap--->  700   
+[ 16 ]  raw--->  [240]Iosefin,curte comuna,zona linistita
+
+   Timisoara, zona Garii
+     * 3 camere
+     * 80 mp utili
+     * Parter/1
+     * Semidecomandat
+
+   56.000 EUR
+   [241]Vezi detalii [242]Vezi telefon
+   Publicat de EUGENE ESTATE #1
+   [243]Sună
+   Publicat de EUGENE ESTATE #1
+
+   1 - 15 din 3003 anunţuri
+   [244]1 [245]2 [246]3 [247]4 [248]5
+   ...
+   [249]67
+     *
+     *
+     *
+     *
+     *
+
+   
+[ 16 ]  title--->  [240]Iosefin,curte comuna,zona linistita   
+[ 16 ]  zona--->     Timisoara, zona Garii   
+

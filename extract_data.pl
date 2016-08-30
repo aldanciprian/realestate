@@ -22,35 +22,16 @@ while (my $row = <$fh>) {
     if ($row =~ m/^\[\d*\]/)  # detected a new record
     {
         $count ++;
-        if ( $first_found == 0 )
-        {
-            $first_found = 1;
-        }
-
 
         if ( $record_str ne "" )
         {
-            #if ( $first_found == 1 )
-            #{
-                #if (exists $ArrayofHashes[$count]{'zona'} )
-                #{
-                #}
-                #else
-                #{
-                    #$ArrayofHashes[$count]{'raw'} = $record_str;
-                #}
-                #$first_found =2;
-            #}
-            #else
-            #{
-                if (exists $ArrayofHashes[$count]{'zona'} )
-                {
-                }
-                else
-                {
-                    $ArrayofHashes[$count-1]{'raw'} = $record_str;
-                }
-            #}
+            if (exists $ArrayofHashes[$count-1]{'raw'} )
+            {
+            }
+            else
+            {
+                $ArrayofHashes[$count-1]{'raw'} = $record_str;
+            }
         }
         $record_str = "";
         $record_str .= $row."\n";

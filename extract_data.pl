@@ -30,19 +30,19 @@ while (my $row = <$fh>) {
 
         if ( $record_str ne "" )
         {
-            if ( $first_found == 1 )
-            {
-                if (exists $ArrayofHashes[$count]{'zona'} )
-                {
-                }
-                else
-                {
-                    $ArrayofHashes[$count]{'raw'} = $record_str;
-                }
-                $first_found =2;
-            }
-            else
-            {
+            #if ( $first_found == 1 )
+            #{
+                #if (exists $ArrayofHashes[$count]{'zona'} )
+                #{
+                #}
+                #else
+                #{
+                    #$ArrayofHashes[$count]{'raw'} = $record_str;
+                #}
+                #$first_found =2;
+            #}
+            #else
+            #{
                 if (exists $ArrayofHashes[$count]{'zona'} )
                 {
                 }
@@ -50,7 +50,7 @@ while (my $row = <$fh>) {
                 {
                     $ArrayofHashes[$count-1]{'raw'} = $record_str;
                 }
-            }
+            #}
         }
         $record_str = "";
         $record_str .= $row."\n";
@@ -82,9 +82,10 @@ while (my $row = <$fh>) {
             }
             else
             {
-                $ArrayofHashes[$count-1]{'raw'} = $record_str;
+                $ArrayofHashes[$count]{'raw'} = $record_str;
             }
         }
+        last;
     }
     if ($start == 1)
     {

@@ -24,7 +24,7 @@ while (my $row = <$fh>) {
         $count ++;
         if ( $first_found == 0 )
         {
-        $first_found = 1;
+            $first_found = 1;
         }
 
 
@@ -32,17 +32,35 @@ while (my $row = <$fh>) {
         {
             if ( $first_found == 1 )
             {
-            $ArrayofHashes[$count]{'raw'} = $record_str;
-            $first_found =2;
+                if (exists $ArrayofHashes[$count]{'zona'} )
+                {
+                }
+                else
+                {
+                    $ArrayofHashes[$count]{'raw'} = $record_str;
+                }
+                $first_found =2;
             }
             else
             {
-            $ArrayofHashes[$count-1]{'raw'} = $record_str;
+                if (exists $ArrayofHashes[$count]{'zona'} )
+                {
+                }
+                else
+                {
+                    $ArrayofHashes[$count-1]{'raw'} = $record_str;
+                }
             }
         }
         $record_str = "";
         $record_str .= $row."\n";
-        $ArrayofHashes[$count]{'title'} = $row;
+        if (exists $ArrayofHashes[$count]{'zona'} )
+        {
+        }
+        else
+        {
+            $ArrayofHashes[$count]{'title'} = $row;
+        }
         if ( $start == 0 )
         {
             $start = 1;
@@ -59,12 +77,12 @@ while (my $row = <$fh>) {
         {
             if ( $first_found == 1 )
             {
-            $ArrayofHashes[$count]{'raw'} = $record_str;
-            $first_found =2;
+                $ArrayofHashes[$count]{'raw'} = $record_str;
+                $first_found =2;
             }
             else
             {
-            $ArrayofHashes[$count-1]{'raw'} = $record_str;
+                $ArrayofHashes[$count-1]{'raw'} = $record_str;
             }
         }
     }
@@ -79,23 +97,41 @@ while (my $row = <$fh>) {
             }
             else
             {
-            $ArrayofHashes[$count]{'zona'} = $row;
+                $ArrayofHashes[$count]{'zona'} = $row;
             }
             next;
         }
         if ( $row =~ m/\s*(\S*)\s*camere.*/ ) # 3 camere
         {
-            $ArrayofHashes[$count]{'nrcamere'} = $1;
+            if (exists $ArrayofHashes[$count]{'nrcamere'} )
+            {
+            }
+            else
+            {
+                $ArrayofHashes[$count]{'nrcamere'} = $1;
+            }
             next;
         }
         if ( $row =~ m/\s*(\S*)\s*mp\s*utili.*/ ) # 80 mp utili
         {
-            $ArrayofHashes[$count]{'mp'} = $1;
+            if (exists $ArrayofHashes[$count]{'mp'} )
+            {
+            }
+            else
+            {
+                $ArrayofHashes[$count]{'mp'} = $1;
+            }
             next;
         }
         if ( $row =~ m/\s*(\S*)\s*EUR.*/ ) # 56.000 EUR
         {
-            $ArrayofHashes[$count]{'eur'} = $1;
+            if (exists $ArrayofHashes[$count]{'eur'} )
+            {
+            }
+            else
+            {
+                $ArrayofHashes[$count]{'eur'} = $1;
+            }
             next;
         }
     }
@@ -129,11 +165,11 @@ foreach my $hash (@ArrayofHashes)
 
 #for my $hash (@ArrayofHashes)
 #{
-    #print $hash;
-    #for my $key ( keys %$hash )
-    #{
-        #print "$key=$hash->{$key} "
-    #}
+#print $hash;
+#for my $key ( keys %$hash )
+#{
+#print "$key=$hash->{$key} "
+#}
 #}
 
 

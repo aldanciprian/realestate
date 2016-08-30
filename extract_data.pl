@@ -35,7 +35,7 @@ while (my $row = <$fh>) {
         }
         $record_str = "";
         $record_str .= $row."\n";
-        if (exists $ArrayofHashes[$count]{'zona'} )
+        if (exists $ArrayofHashes[$count]{'title'} )
         {
         }
         else
@@ -56,10 +56,8 @@ while (my $row = <$fh>) {
         #print "STOP===\n";
         if ( $record_str ne "" )
         {
-            if ( $first_found == 1 )
+            if (exists $ArrayofHashes[$count]{'raw'} )
             {
-                $ArrayofHashes[$count]{'raw'} = $record_str;
-                $first_found =2;
             }
             else
             {

@@ -12,7 +12,7 @@ my $filename = $ARGV[0];
 open(my $fh, '<:encoding(UTF-8)', $filename)
     or die "Could not open file '$filename' $!";
     #                      0        1      2        3      4        5           6
-my @akeys = ( "raw" ,"rap","eur","mp","title","zona","nrcamere" );
+#my @akeys = ( "raw" ,"rap","eur","mp","title","zona","nrcamere" );
 my @akeys = ("eur", "mp" , "nrcamere", "rap", "raw", "title", "zona" );
 my $start=0;
 my $stop=0;
@@ -145,9 +145,9 @@ my  $once = 0;
 my $scols = "";
 foreach my $akey (sort @akeys)
 {
-            $scols = $akey."  VARCHAR(700)," .$scols;
+            $scols = $scols.$akey."  VARCHAR(2000),";
 }
-  print "SCOLS   ".$scols."\n";
+
 
 
 foreach my $hash (@ArrayofHashes)
@@ -204,27 +204,34 @@ foreach my $hash (@ArrayofHashes)
 my $indexare= 0;
 foreach my $hash (@ArrayofHashes)
 {
-print $indexare."     \n";
+	#print "[ - ".$ArrayofHashes[$indexare]{'mp'}." -  ]\n";
+	print "indexare [".$indexare."]  ".$hash."   \n";
+	#print "[".$hash->{'mp'}."]\n";
+
     my $row = "INSERT INTO content VALUES ( ";  
-    foreach my $akey (@akeys)
+    foreach my $akey (sort @akeys)
     {
-           if ( undef $hash->{$akey} )
-           {
-           print $akey. "\n";
-           }
-           else
-           {
-           print $akey ."-> ".$hash->{$akey}  ."\n";
-           }
+    	#print "[".$hash->{$akey}."]\n";
+		#if ( undef $hash->{$akey} )
+		
+		#	print $akey. "\n";
+		
+		#else
+		
+		#	print $akey ."-> ".$hash->{$akey}  ."\n";
+		
+
+		print "[ ".$akey." ->  ".$hash->{$akey}."   <-  ]\n";
 
         if (not defined $hash->{$akey} ) 
         {
-        $row = " '' ,";
+        $row = $row." '0' ,";
         }
         else
         {
         $row = $row.$dbh->quote($hash->{$akey}).",";        
-#        print "keya ".$akey." ".$hash->{$akey}."\n";
+        #print "keya ".$akey." ".$hash->{$akey}."\n";
+
         }
     }
 #    foreach my $key  ( sort ( keys %$hash  ) )  
@@ -238,6 +245,7 @@ print $indexare."     \n";
     print "\n";
     chop ($row);
     $row  = $row.")";
+  	print "SCOLS   ".$scols."\n";    
     print "[ ".$row." ]\n";
     $dbh->do($row);
     
@@ -251,13 +259,18 @@ $indexare ++;
   # same thing, but using placeholders (recommended!)
   #$dbh->do("INSERT INTO content VALUES (?, ?)", undef, 2, "Jochen");
 
+  $dbh->do("ALTER TABLE content MODIFY rap DOUBLE");
+  $dbh->do("ALTER TABLE content MODIFY eur DOUBLE");
+  $dbh->do("ALTER TABLE content MODIFY nrcamere DOUBLE");
+    
   # now retrieve data from the table.
-  my $sth = $dbh->prepare("SELECT * FROM content");
+  my $sth = $dbh->prepare("SELECT eur,nrcamere,rap,title,zona FROM content where nrcamere !='0' order by 'rap'");
   $sth->execute();
   while (my $ref = $sth->fetchrow_hashref()) {
             for my $ky ( sort (keys %$ref))
             {
-                print "$ky -> $ref->{$ky} ";
+                #print "$ky -> $ref->{$ky} ";
+                print "$ref->{$ky}\t";
             }
             print "\n";
   #  print "Found a row: id = $ref->{'id'}, name = $ref->{'name'}\n";

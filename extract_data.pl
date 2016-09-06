@@ -190,8 +190,8 @@ foreach my $hash (@ArrayofHashes)
 
   # Drop table 'foo'. This may fail, if 'foo' doesn't exist
   # Thus we put an eval around it.
-  eval { $dbh->do("DROP TABLE content") };
-  print "Dropping content failed: $@\n" if $@;
+  #eval { $dbh->do("DROP TABLE content") };
+  #print "Dropping content failed: $@\n" if $@;
 
   # Create a new table 'foo'. This must not fail, thus we don't
   # catch errors.
@@ -200,7 +200,7 @@ foreach my $hash (@ArrayofHashes)
   
   
 
-  $dbh->do("CREATE TABLE content (".$scols.")");
+  $dbh->do("CREATE TABLE IF NOT EXISTS content (".$scols.")");
 my $indexare= 0;
 foreach my $hash (@ArrayofHashes)
 {
@@ -262,20 +262,21 @@ $indexare ++;
   $dbh->do("ALTER TABLE content MODIFY rap DOUBLE");
   $dbh->do("ALTER TABLE content MODIFY eur DOUBLE");
   $dbh->do("ALTER TABLE content MODIFY nrcamere DOUBLE");
+  #$dbh->do("ALTER IGNORE TABLE content ADD UNIQUE INDEX idx_uniq (`eur`, `mp`, `nrcamere`, `rap`)");
     
   # now retrieve data from the table.
-  my $sth = $dbh->prepare("SELECT eur,nrcamere,rap,title,zona FROM content where nrcamere !='0' order by 'rap'");
-  $sth->execute();
-  while (my $ref = $sth->fetchrow_hashref()) {
-            for my $ky ( sort (keys %$ref))
-            {
-                #print "$ky -> $ref->{$ky} ";
-                print "$ref->{$ky}\t";
-            }
-            print "\n";
-  #  print "Found a row: id = $ref->{'id'}, name = $ref->{'name'}\n";
-  }
-  $sth->finish();
+  #my $sth = $dbh->prepare("SELECT eur,nrcamere,rap,title,zona FROM content where nrcamere !='0' order by 'rap'");
+  #$sth->execute();
+  #while (my $ref = $sth->fetchrow_hashref()) {
+            #for my $ky ( sort (keys %$ref))
+            #{
+                ##print "$ky -> $ref->{$ky} ";
+                #print "$ref->{$ky}\t";
+            #}
+            #print "\n";
+  ##  print "Found a row: id = $ref->{'id'}, name = $ref->{'name'}\n";
+  #}
+  #$sth->finish();
 
   # Disconnect from the database.
   $dbh->disconnect();

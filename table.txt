@@ -1,0 +1,732 @@
+eur	mp	nrcamere	rap	title
+0	0	0	0	[188]Ansamblul rezidential iHome Residence
+60.5	0	2	0	[179]BA095 Lunei, mobilat si utilat complet, centrala proprie
+47.5	106	3	448.11320754717	[169]Traian , suprafata generoasa , renovat, anvelopat
+79	150	6	526.666666666667	[174]Central, complet renovat, pretabil spatiu de birouri
+31.999	60	2	533.316666666667	[169]OCAZIE! Apartament 2 camere (60 mp), cladire din caramida, curte cu
+75	140	4	535.714285714286	[193]Apartament spatios in zona Lunei, centrala proprie, garaj
+105	185.92	7	564.759036144578	[218]Apartament E+Mansarda, 7 camere - str. Adam Muller Guttenbrun
+50	88	3	568.181818181818	[203]ARADULUI, APARTAMENT 1 CAMERĂ+MANSARDĂ
+40.009	70	2	571.557142857143	[178]vand apartament foarte spaţios 2 camere, centrală, complet mobilat
+100	170	3	588.235294117647	[192]Pta Balcescu, 200mp, amenajat!
+78	131	4	595.419847328244	[174]Dumbravita, apartament de lux, bloc nou!
+70	115	3	608.695652173913	[174]Mobilat si utilat.La 5 min de Punctele Cardinale
+134	220	4	609.090909090909	[179]Piata Romanilor , Apartament 4 camere LUX, 3 garaje
+99	160	4	618.75	[237]De vanzare apartament pe 3 nivele zona Odobescu
+25	40	0	625	[228]Balcescu, SU-40 mp, centrala termica
+56	89	2	629.213483146067	[223]Iozefin, apartament la curte comuna, centrala termica
+69.9	110	3	635.454545454545	[188]PROPRIETAR ! 4 Camere * 110 mp * pe 2 NIVELE * NOU
+65	100	2	650	[159]100 mp utili. Piata Crucii.
+70	107.14	5	653.350756020161	[188]Apartament 2 camere parter + 3 camera mansarda
+49.5	74	2	668.918918918919	[228]De vanzare apartament in zona Centrala, Parcul Carmen Silva
+27	40	0	675	[179]Piata Maria, demisol,SU 40 mp, amenajat
+80	118	4	677.966101694915	[164]Decomandat. Centrala. Mobilat si utilat
+36	53	2	679.245283018868	[159]2 CAMERE DECOMANDAT
+74	106	4	698.11320754717	[179]Lunei 4 cam, parter, 106mp, 2 bai, 74.000euro! OCAZIE!!
+56	80	3	700	[208]Iosefin,curte comuna,zona linistita
+98	138	4	710.144927536232	[223]Piata Maria, 4 camere, cladireistorica
+95	133	4	714.285714285714	[169]Zona Neptun-Medicina,excelent pentru investitie
+75	105	3	714.285714285714	[218]Apartament P-ta Romanilor
+68	95	4	715.789473684211	[203]Ocazie! 4 camere la pret de 3!
+36	50	2	720	[218]Buziasului, centrala termica, constructie 2013
+47	65	2	723.076923076923	[223]Apartament de vanzare in Piata Badea Cartan
+59.9	82	2	730.487804878049	[218]De vanzare apartament cu 2 camere, la casa - zona Piata Balcescu
+60	82	2	731.707317073171	[169]Semicentral, centrala termica, 82mp, 63000E
+42	57	2	736.842105263158	[188]De vanzare ap 2 cam, Pta Unirii,mansarda inalta,50mp,
+71	96	4	739.583333333333	[164]Dambovita, 4 camere, centrala termica
+26	35	2	742.857142857143	[188]Vand ap 2 cam,parter,35mp,Zona Saguna,incalzire gaz
+68	90	3	755.555555555556	[228]PUNCTELE CARDINALE,90 mp,centrala termica, garaj
+110	145	4	758.620689655172	[237]Zona Neptun,spatios,confortabil,pozitie buna
+76	100	3	760	[213]Apartament la casa situat in zona Take Ionescu
+57	75	3	760	[159]Apartament la casa, zona centrala
+99	130	4	761.538461538462	[223]Spatiu generos : 4 + 1 camera !! Centrala proprie!
+55	72	2	763.888888888889	[198]Elisabetin, amenajat, disponibilitate imediata
+52	68	3	764.705882352941	[164]Vanzare apartament 3 camere
+75	98	4	765.30612244898	[193]Model Mare, Decomandat, Amenajat, Luminos
+85	110	4	772.727272727273	[208]Fratelia, curte privata, amenajat, mobilat si utilat
+58	75	3	773.333333333333	[188]Calea Sagului, 3 camere, centrala termica
+105	135	3	777.777777777778	[164]Apartament tip penthouse
+62.5	80	2	781.25	[179]Apartament 2 camere situat intr-o cladire istorica
+47	60	3	783.333333333333	[213]Apartament 3 camere , zona Dambovita
+63	80	4	787.5	[203]Circumvalatiunii, semidecomandat, 80 mp utili
+45	57	2	789.473684210526	[237]Piata Traian,amenajat,mobilat,centrala termica
+68	86	3	790.697674418605	[179]TAKE IONESCU,86 mp,3+1 camere,decomandat,mobilat si utilat
+73	92	4	793.478260869565	[174]Dambovita,amenajat,centrala,etaj intermediar
+62	78	3	794.871794871795	[227]Proprietar, vand apartament 3 camere decomandat Freidorf 62000 euro neg.
+47.8	60	2	796.666666666667	[198]2cam, 60mp, decomandat, bloc nou, Giroc, Comision 0%!
+135	169	4	798.816568047337	[179]4 Camere, bloc 2009 scara interioara.
+43.999	55	2	799.981818181818	[159]Freidorf , decomandat , etaj 3 , spatios
+72	90	3	800	[213]Timocului-Saguna,3 camere, 90 mp utili
+60	75	3	800	[208]Model Mare.Centrala Proprie.
+80	100	3	800	[169]Spatiu si confort in zona Iosefin
+52	64.6	3	804.953560371517	[228]Etaj 1. Zona linistita.
+199	247	5	805.668016194332	[174]Apartament 5 camere, 247 mp - Take Ionescu
+12.9	16	0	806.25	[223]Vand apartament cu 1 cam,Zona Umt
+75	93	4	806.451612903226	[223]Oportunitate! Apartament situat aproape de centrele universitare!
+50	62	3	806.451612903226	[213]3 camere la 5 minute de Billa, Kaufland!
+55	68	3	808.823529411765	[218]Soarelui-bloc reabilitat, decomandat , 2 bai-2balcoane , centrala
+89	110	5	809.090909090909	[179]Apartament amenajat zona Take Ionescu
+85	105	3	809.52380952381	[237]De vanzare apartament cu 3 camere, in zona Traian
+69	85	4	811.764705882353	[237]Girocului, etaj intermediar, posibilitate de centrala termica
+65	80	2	812.5	[198]Iosefin, SU 80 mp, centrala termica
+81.3	100	3	813	[203]3cam, decomandat, 100mp, bloc nou, Giroc, Comision 0%!
+70	86	3	813.953488372093	[223]Dorobantilor, Spatios, etaj intermediar, garaj
+80	98	4	816.326530612245	[179]Fratelia, decomandat, vedere pe doua parti
+95	116	4	818.965517241379	[193]Elisabetin,bloc in asociatie,amenajat
+47.5	58	2	818.965517241379	[159]Freidorf, spatios, bloc anvelopat termic
+72.5	88	4	823.863636363636	[159]Calea ARADULUI , ETAJ INTERMEDIAR
+47	57	2	824.561403508772	[174]Apartament 2 camere Piata Crucii 47000 Euro
+160	194	6	824.742268041237	[213]Centrala proprie. Complet renovat. Pe 2 nivele
+66	80	3	825	[169]Timocului-Saguna,3 camere,etaj 1
+58	70	3	828.571428571429	[237]Calea Sagului, 3 camere, decomandat
+99.8	120	3	831.666666666667	[237]Recent amenajat, dar cu iz istoric pe malul Begai!
+80	96	3	833.333333333333	[213]Apartament cu 3 camere in zona Selgros
+56	67	3	835.820895522388	[174]Zona linistita. Pregatit pentru centrala. Disponibil imediat.
+42	50	2	840	[223]Centrala termica proprie. Izolat exterior.
+85	101	4	841.584158415842	[164]Decomandat.Centrala proprie.
+55	65	3	846.153846153846	[188]Girocului, decomandat
+44	52	2	846.153846153846	[179]Vand ap 2 cam 52mp,Zona Traian,etaj 1, centrala gaz
+85	100	4	850	[193]Etaj 1. Decomandat. Amenajat complet
+68	80	4	850	[223]MODEL SPATIOS. Etaj intermediar.
+57.9	68	2	851.470588235294	[179]Zona semicentrala, centrala termica proprie, amenajat
+58	68	3	852.941176470588	[164]De vanzare apartament cu 3 camere, zona Dorobantilor
+49.5	58	2	853.448275862069	[177]Apartamente cu 2 camere nou construite direct de la dezvoltator zona
+61.5	72	3	854.166666666667	[193]3 camere Steaua, mobilat si utilat
+59	69	3	855.072463768116	[198]Ocazie, Soarelui, decomandat
+38.5	45	2	855.555555555556	[198]Girocului, 2 camere, constructie 2009
+60	70	2	857.142857142857	[159]Zona Semicentrala, 2 camere in apropierea Colegiului National Banatean
+36	42	2	857.142857142857	[188]Dacia ,2 camere, superoferta!
+120	140	5	857.142857142857	[223]5 camere, Sinaia
+64.5	75	3	860	[218]Lipovei , decomandat , 2 bai , 2 balcoane
+56	65	3	861.538461538462	[159]Un imobil situat intr-o zona linistita..!
+75	87	3	862.068965517241	[228]Iosefin,centrala,amenajari moderne
+69	80	4	862.5	[164]OFERTA-4 camere,etaj intermediar,zona Aradului
+64.762	75	2	863.493333333333	[203]De vanzare apartamente noi in Timisoara zona Lipovei - Comision 0%
+47.5	55	2	863.636363636364	[203]Aradului-Est,2balcoane,etajintermediar
+95	110	4	863.636363636364	[193]Apartament cu 5 camere modificat. Complet amenajat
+44.999	52	2	865.365384615385	[174]OCAZIE! Apartament SPATIOS, BLOC NOU, tip vila. Bonus: PARCARE+MOBILA
+77.899	90	4	865.544444444444	[213]Spatios , modern , mobilat si utilat
+58	67	2	865.671641791045	[193]Apartamente direct de la dezvoltator!!!
+65	75	3	866.666666666667	[188]LIPOVEI, APARTAMENT 3 CAMERE
+118	136	5	867.647058823529	[188]Complex , 136mp , centrala , deccomandat
+59	68	3	867.647058823529	[213]CIRCUMVALATIUNII - TERMOPANE - BALCON
+87	100	4	870	[174]4 Camere, andrei şaguna, amenajat modern, etaj intermediar
+74	85	4	870.588235294118	[174]Lipovei, decomandat, etaj intermediar
+122	140	5	871.428571428571	[201]De vanzare apartament in Timisoara, spatios, langa Parcul Doina
+41	47	2	872.340425531915	[228]Mobilat si utilat.Clima.Zona linistita
+69.9	80	3	873.75	[159]Vanzare apartament 3 camere
+180	206	5	873.78640776699	[203]Penthouse de lux, Parcare subterana, Zona linistita
+77	88	4	875	[174]Apartament format din 4 camere spatioase si luminioase,situat in zona
+70	80	2	875	[237]Sinaia,centrala,amenajat
+50	57	2	877.19298245614	[164]Traian-Badea Cartan, centrala proprie, renovat
+61.5	70	3	878.571428571429	[223]Calea Sagului, vedere pe trei parti, centrala termica proprie
+58	66	2	878.787878787879	[188]Adora Forest: O locaţie privilegiată, în vecinătatea Pădurii Verzi
+75	85	4	882.352941176471	[218]Spatios. Amenajat. Zona Buna
+100	113	4	884.955752212389	[228]Dacia, etajul 4/10, 4 camere, deosebit
+85	96	2	885.416666666667	[193]Apartament spatios in Complexul Studentesc
+93	105	3	885.714285714286	[213]Spatios si luminos. La 5 minute de Catedrala
+63	71	3	887.323943661972	[212]Lipovei - 3 cam - 71 mp - Decomandat - Mobilat Full - 63000 Euro!
+71	80	4	887.5	[228]Oferta: 4 camere,zona Mircea cel Batran,pozitie excelenta
+80	90	4	888.888888888889	[159]Apartament deosebit. Complet amenajat
+98	110	3	890.909090909091	[188]Apartament 3 camere in vila, strada privata, lux
+58	65	3	892.307692307692	[203]Spatios.Luminos.Centrala Proprie
+75	84	4	892.857142857143	[188]Aradului, centrala termica,decomandat
+62.5	70	3	892.857142857143	[203]3 Camere decomandat Zona Simion Barnutiu
+25	28	0	892.857142857143	[174]Apartament cu 1 camera, Iosefin
+65	72.73	3	893.716485631789	[208]Pret bun la 2 minute de RATT
+59	66	3	893.939393939394	[223]Izolat exterior. Complet mobilat si utilat.
+76	85	4	894.117647058824	[223]Model mare. Zona foarte buna. Geam la baie.
+46.5	52	2	894.230769230769	[218]Spatiu si confort la un pret convenabil
+85	95	3	894.736842105263	[228]Apartament 3 camere, Lipovei
+47.5	53	2	896.22641509434	[164]Apartament 2 camere Direct de la proprietar zona centrala
+95	106	3	896.22641509434	[237]Apartament 139 mp Ansamblu Europa 2 - Timisoara
+90	100	4	900	[203]Complex, 100 mp, amenajat
+45	50	2	900	[228]Aradului,semidecomandat,centrala termica
+76.5	85	4	900	[208]Calea Sagului,etj intermediar,amenajari moderne
+94.9	105	4	903.809523809524	[169]Calea Sagului, spatiu, calitate si confort
+38	42	2	904.761904761905	[203]Dambovita, decomandat, centrala termica
+52.5	58	3	905.172413793103	[237]Girocului- Plavat, decomandat, centrala termica
+86	95	3	905.263157894737	[179]De vanzare apartament in Timisoara, zona Complexul Studentesc
+67	74	3	905.405405405405	[223]3 Camere decomandat cu centrala si clima zona Lipovei
+29	32	0	906.25	[203]Etaj intermediar,mobilat,zona linistita
+43.5	48	2	906.25	[159]Bloc nou ocupat integral - apartament nelocuit - Chisoda la intrare.
+68	75	3	906.666666666667	[198]Iosefin ! Ap 3 camere , decomandat , cf 1 , 75 mp !
+59	65	3	907.692307692308	[169]Model Mare. Etajul 1
+50	55	2	909.090909090909	[164]Dambovita - 2 cam - 55 mp - Centrala P. Mobilat - 50000 Euro!!
+61	67	3	910.44776119403	[213]3 camere de vanzare in zona Circumvalatiunii-Mall.
+72.9	80	4	911.25	[228]Bucovina - 4 Cam Dec - 90 mp - Centrala P - Aer Cond - 72900 EUro!!
+46.5	51	2	911.764705882353	[208]Aproape de Piata Doina.Zona linistita.
+52	57	3	912.280701754386	[193]Etaj 1. Zona linistita.
+73	80	2	912.5	[174]2 camere, Iosefin
+63	69	3	913.04347826087	[203]Decomandat pe 2 parti. Posibilitate montare centrala.
+32	35	0	914.285714285714	[193]Bloc izolat. Centrala Proprie
+64	70	3	914.285714285714	[198]Aproape de Scoala Generala 27. Model deosebit cu CENTRALA PROPRIE.
+75	82	4	914.634146341463	[228]Apartament NOU in vila. Finisat complet.
+87	95	4	915.789473684211	[203]Apartament 4 camere, decomandat, amenajat modern, situat in zona Lunei
+55	60	3	916.666666666667	[213]Mobilat si Utilat.Bloc Izolat
+50.5	55	2	918.181818181818	[217]Lipovei, 2 camere, 2 balcoane
+73.5	80	3	918.75	[188]Spatios. Renovat complet. Central.
+62.5	68	3	919.117647058824	[213]Pregatit pentru centrala.Mobilat si utilat.Clima
+92	100	4	920	[188]Lunei, decomandat, amenajat, mobilat si utilat modern
+59.9	65	3	921.538461538462	[174]Spatios. Centrala termica proprie. 2 bai.
+47	51	3	921.56862745098	[208]Zona Pietei Dacia. Disponibil Imediat.
+60	65	3	923.076923076923	[208]Piata Doina, decomandat, vedere pe trei parti
+120	130	4	923.076923076923	[213]LIPOVEI,apartament in vila, finisaje lux
+61.999	67	3	925.358208955224	[228]Lipovei , complet mobilat si utilat , decomandat , cu centrala
+62	67	3	925.373134328358	[237]Finisaje deosebite. Caramida integral. Constructie 2015.
+50	54	2	925.925925925926	[208]2 Camere in Giroc Decomandat Bloc NOU
+63	68	3	926.470588235294	[188]Apartament 3 camere-spatios-Gheorghe Lazar
+64.9	70	3	927.142857142857	[193]Apartament 3 camere et 2
+51	55	2	927.272727272727	[198]Freidorf,etaj intermediar,centrala
+65	70	3	928.571428571429	[228]Centrala Proprie. Mobilat si utilat.Izolat interior exterior
+66	71	2	929.577464788732	[198]De vanzare apartament 2 camere, decomandat, 71 mp - Simion Barnutiu
+189	203	5	931.034482758621	[237]Ap 5 camere , 203 mp, zona Moise Dobosan !
+82	88.07	3	931.077551947315	[213]Apartament 3 camere in bloc nou, Braytim
+68	73	3	931.506849315069	[174]Spatios. Decomandat. Centrala proprie
+76.5	82	4	932.926829268293	[163]4 camere,etaj intermediar,zona Aradului-Vest,model deosebit
+56	60	2	933.333333333333	[169]Steaua, spatios, decomandat
+72.9	78	3	934.615384615385	[198]DE VANZARE APARTAMENT 3 CAMERE ZONA DOROBANTI
+50.5	54	2	935.185185185185	[169]Aproape de Restaurantul Nora.Izolat termic exterior. Zona linistita.
+79.5	85	3	935.294117647059	[159]Bloc nou, camere spatioase, dressing la dormitor, 85mp utili !
+62	66.18	3	936.838924146268	[169]Centrala proprie.Vedere pe 2 parti
+60	64	3	937.5	[203]Centrala proprie. Aproape de Profi City
+45	48	2	937.5	[208]De vanzare apartament in Timisoara, cu 2 camere, in zona Girocului
+90	96	3	937.5	[174]Cetatii,3 camere ,foarte spatios
+75	80	4	937.5	[188]Dambovita- 4 cam- DC- Et 1- 75000 EUR Neg!
+61	65	2	938.461538461538	[223]ZONA BUCOVINA , LUX
+46	49	2	938.775510204082	[239]Giroc, bloc nou, amenajat
+79.9	85	3	940	[198]Apartament nou cu 3 camere + Curte + Parcare
+63	67	3	940.298507462687	[213]Aradului,centrala,mobilat si utilat
+39.5	42	2	940.47619047619	[203]Piata Doina , cu acoperis de tigla si posibilitate CT
+80	85	3	941.176470588235	[179]Vanzare apartament 3 camere cu garaj si boxa, zona Traian - Parc
+160	170	4	941.176470588235	[179]Apartament spatios in cladire istorica
+65	69	3	942.028985507246	[208]Proprietar, vand apartament 3 camere, confort 1 decomandat, Timisoara
+66	70	3	942.857142857143	[179]Dacia , centrala , decomandat, etaj intermediar
+50.99	54	2	944.259259259259	[169]Dambovita,2 camere ,centrala,
+85	90	4	944.444444444444	[237]Centrala termica proprie. Mobilat si utilat complet.
+68	72	3	944.444444444444	[193]Freidorf, decomandat, amenajat, garaj
+51	54	2	944.444444444444	[159]Centrala Proprie, garaj sub bloc.
+52	55	2	945.454545454545	[164]Renovat.Zona linistita.Centrala termica proprie.
+87	92	4	945.652173913043	[159]IDEAL INVESTITIE; 4 camere/parter inalt Complex/Stadion-Novatim.
+61.5	65	3	946.153846153846	[203]Lipovei, 3 camere, decomandat, centrala proprie
+159	168	5	946.428571428571	[193]Apartament de lux, 5 camere in asociatie, Elisabetin.
+79.515	84	3	946.607142857143	[159]Calea Aradului-Athena, etaj intermediar, la cheie.
+71	75	3	946.666666666667	[164]3 Camere decomandat cu centrala Zona Lipovei
+36	38	0	947.368421052632	[198]Piata Romanilor, 1camera, 38mp, curte , zona foarte linistita
+73	77	3	948.051948051948	[188]Model foarte spatios. Centrala proprie. Disponibil imediat.
+47.5	50	2	950	[169]Centrala termica proprie. Decomandat. Vedere pe 2 parti
+95	100	4	950	[198]Apartament spatios
+57	60	3	950	[188]Gara de Nord, vedere pe doua parti, etaj intermediar
+38	40	3	950	[202]Etaj intermediar. Aproape de noul mall. Zona linistita.
+60	63	3	952.380952380952	[208]Complet mobilat. Decomandat.
+71.5	75	3	953.333333333333	[203]Lunei, centrala proprie, 75 mp
+51.5	54	3	953.703703703704	[223]Apartament nou 2 camere + Living Cu bucatarie
+62	65	3	953.846153846154	[237]3 camere,pozitie semicentrala,amenajat
+106	111	3	954.954954954955	[198]Apartament 3 camere, 111 mp - Take Ionescu
+86	90	4	955.555555555556	[213]Langa Stadion. Complet renovat. Centrala proprie
+65	68	3	955.882352941176	[212]Cetatii,centrala,amenajat
+67	70	3	957.142857142857	[218]Aradului,bloc izolat/mansardat,centrala termica proprie
+33.5	35	0	957.142857142857	[198]Iosefin, apartament 1 camera
+51.7	54	2	957.407407407407	[208]Dambovita, semidecomandat, etaj intermediar
+45	47	2	957.446808510638	[213]Girocului,2 camere, pozitie buna
+56.5	59	3	957.627118644068	[169]Apartamnet nr.4
+68	71	2	957.746478873239	[208]Bloc Nou, 71 mp utili, garaj, aproape de Centru
+46	48	2	958.333333333333	[203]Dambovita,centrala proprie,confort 1
+72	75	3	960	[218]Soarelui, parter, amenajat
+74.999	78	3	961.525641025641	[228]Vand apartament arhitectura deosebita, 3 camere
+75	78	4	961.538461538462	[164]Lipovei, 4 camere, decomandat, centrala proprie
+50	52	2	961.538461538462	[159]Calea Aradului , parter
+105	109	3	963.302752293578	[203]Apartament 3 camere, 109 mp - Take Ionescu
+53	55	2	963.636363636364	[218]Soarelui, centrala termica, amenajat
+71.333	74	3	963.959459459459	[159]Adora Forest: O locaţie privilegiată, în vecinătatea Pădurii Verzi
+55	57	3	964.912280701754	[188]3 camere, Steaua
+59.9	62	3	966.129032258065	[223]Ocazie! 3 minute de Mall, Apartament 3 camere, 62 mp
+29	30	2	966.666666666667	[241]Pretabil pentru cabinet.Centrala proprie
+58	60	2	966.666666666667	[159]Bucovina,zona linistita,vedere pe 2 parti
+63	65	3	969.230769230769	[193]Girocului, etaj intermediar
+65	67	3	970.149253731343	[159]Dambovita, amenajat, complet mobilat si utilat
+66	68	3	970.588235294118	[207]Bloc izolat,cu centrala,etaj 3 in zona Girocului-Plavat ll
+33	34	0	970.588235294118	[223]Dambovita, amenajat, centrala termica
+165	170	4	970.588235294118	[213]Piata Plevnei-Mihai Viteazul. 170 mp utili.
+68	70	3	971.428571428571	[223]Decomandat, 2 bai!
+34	35	0	971.428571428571	[193]Zona linistita. Langa Billa Sagului.
+90	92.6	4	971.922246220302	[217]APARTAMENT SEMI-CENTRAL
+52.5	54	2	972.222222222222	[164]Centrala proprie. Decomandat.Mobilat si utilat
+70	72	3	972.222222222222	[213]De vanzare apartament cu 3 camere, zona Bucovina
+106	109	3	972.477064220183	[193]Apartament 3 camere, 109 mp - Take Ionescu
+53.5	55	2	972.727272727273	[208]Centrala proprie.Izolat interior.Zona linistita
+73	75	3	973.333333333333	[223]Centrala proprie.Etaj intermediar
+55	56.5	2	973.451327433628	[213]2 camere proaspat renovat cu centrala proprie situat la etaj intermediar
+37	38	0	973.684210526316	[188]Mobilat si utilat. Pozitie buna.
+69	70.83	3	974.16349004659	[164]Decomandat.Mobilat.Garaj
+57.5	59	3	974.576271186441	[179]Apartament de vânzare 3 camere
+58.5	60	2	975	[169]Centrala Proprie.Etaj Intermediar.Model Spatios.
+78	80	4	975	[232]Gheorghe Lazar,panorama deosebita
+83	85	3	976.470588235294	[193]Neptun,decomandat
+42	43	2	976.744186046512	[237]Amenajat. Aproape de Hotel Ambassador.
+73.4	75	3	978.666666666667	[183]Vanzare apartament 3 camere
+46	47	2	978.723404255319	[164]Bloc izolat. Etaj 1. Zona linistita.
+49	50	2	980	[223]2 camere de vanzare in zona Aradului.
+100	102	3	980.392156862745	[228]3 camere Piata Unirii
+51	52	2	980.769230769231	[228]Bucatarie Mare. Amenajat. Langa Billa-Profi
+52	53	3	981.132075471698	[218]Dambovita, 3 camere, etaj intermediar
+64.762	66	2	981.242424242424	[208]De vanzare apartamente noi in Timisoara zona Lipovei - Comision 0%
+53	54	2	981.481481481482	[203]Dambovita, etaj intermediar, centrala proprie
+55	56	3	982.142857142857	[188]Apartament nr.3
+56	57	3	982.456140350877	[174]Girocului-LIDL , decomandat , centrala,PVC
+57	58	2	982.758620689655	[174]Lunei, 2 camere, decomandat, garaj
+59	60	4	983.333333333333	[218]Calea Sagului, etaj intermediar, vedere pe doua parti
+31.5	32	0	984.375	[179]Blascovici,parter,mobilat/utilat
+63	64	3	984.375	[218]Aproape de Blitz. Centrala termica proprie. Mobilat si utilat.
+64	65	3	984.615384615385	[237]Lipovei, model mare, 2 bai, mobilat
+65	66	3	984.848484848485	[228]Ap 3cam Circumvalatiunii 3min de Mall, centrul orasului, confortabil si
+67	68	3	985.294117647059	[213]Dacia, 3 camere, 68mp
+74.9	76	2	985.526315789474	[164]De vanzare apartament cu 2 camere in Piata Maria
+69	70	3	985.714285714286	[188]COMPLEXUL STUDENTESC, AMENAJAT, DECOMANDAT
+70	71	3	985.915492957746	[179]Braytim , finisat modern , spatios
+76	77	2	987.012987012987	[174]Braytim , finisat modern , spatios
+39.5	40	0	987.5	[228]Apartament 1 camera Zona Baile Neptun
+84	85	4	988.235294117647	[223]4 camere, PIAŢA VICTORIEI, OFERTĂ
+88	89	3	988.76404494382	[168]Bucovina , etaj 1 , 89 mp
+46.5	47	3	989.36170212766	[188]Girocului, SU- 47mp, integral BCA
+48.5	49	2	989.795918367347	[208]Dambovita, vedere pe doua parti, bloc cu lift
+59.4	60	2	990	[213]Apartamente noi, 60 mp, parcare subterana, direct de la proprietar
+99	100	3	990	[169]De vanzare apartament cu 3 camere in zona Odobescu
+51.5	52	2	990.384615384615	[169]Dambovita , amenajat , cu centrala
+55.5	56	2	991.071428571429	[164]Dambovita,etaj intermediar,centrala ,complet amenajat
+56.5	57	2	991.228070175439	[213]Steaua,centrala,amenajat modern
+65	65.5	3	992.36641221374	[188]0% COMISION. Nou. Spatios. La cheie.
+65.5	66	3	992.424242424242	[174]Medicinei, etaj intermediar , tamplarie PVC
+75.5	76	3	993.421052631579	[164]Bloc nou in oras, Suprafata mare
+79.5	80	3	993.75	[208]3 camere la vila
+64.7	65	3	995.384615384615	[169]Etajul 2. Centrala termica proprie. Mobilat si utilat complet.
+51.9	52	2	998.076923076923	[237]Dambovita, ingrijit, mobilat, utilat, centrala, aer
+52.9	53	2	998.11320754717	[223]0 % COMISION. Vila 2016 la cheie. Compartimentat EXCELENT
+54.999	55	3	999.981818181818	[237]Lipovei , decomandat , acoperis nou.
+64	64	3	1000	[173]Lipovei, 3 camere, renovat in totalitate
+67	67	3	1000	[179]Aproape de parc, etaj 3, bloc izolat , centrala termica
+70	70	3	1000	[193]Complet mobilat. Centrala proprie. Decomandat.
+55	55	2	1000	[203]Etajul 1 ,55.000 euro
+52	52	3	1000	[218]3 camere,etaj intermediar,zona Dacia
+65	65	3	1000	[203]Girocului, bloc izolata termic, centrala termica
+61	61	3	1000	[179]Calea Aradului, etaj intermediar, mobilat
+49	49	2	1000	[231]0 % COMISION. Vila 2016 la cheie. Compartimentat EXCELENT. Finisaje
+75	75	4	1000	[208]Apartament de vânzare 4 camere
+42	42	2	1000	[237]Girocului, amenajat, centralatermica
+50	50	2	1000	[164]Timocului,2 camere la casa,centrala termica ,amenajate
+80	80	2	1000	[218]APARTAMENT PENTRU BIROURI SAU FAMILIAL ULTRACENTRAL
+60	60	3	1000	[164]Apartament cu 3 camere de vanzare la pretul de 60000 euro .
+53	53	3	1000	[203]Apartament nr.2
+23	23	0	1000	[228]Buziasului, decomandat, gaz
+58	58	2	1000	[179]Centrala proprie. Acoperis. Renovat
+62	62	3	1000	[164]3 camere,modern amenajat,mobilat si utilat,zona Lipovei
+57	57	2	1000	[164]Spatiu si confort,intr-o zona linistita
+167	167	4	1000	[223]Zona Prefectura-Medicina,apartament deosebit
+76	76	3	1000	[228]Bucovina, Apartament 3 cam,Decomandat,etaj intermediar, Centrala, Clima,
+110	110	4	1000	[213]Apartament generos in imobil nou
+78	78	3	1000	[218]Bucovina,decomandat,centrala termica proprie
+57.7	57.7	2	1000	[164]0 % COMISION. Vila 2016 la cheie. Compartimentat EXCELENT
+56	56	2	1000	[198]Lipovei, 2 camere, bloc nou
+45	45	2	1000	[198]Etaj intemediar.Pozitie Buna.
+51	51	2	1000	[198]Bucatarie Spatioasa.Centrala Proprie.Acoperis din tigla.
+100	100	3	1000	[218]Ap 3 cam Parcul POPORULUI
+22	22	0	1000	[159]Garsoniera de vanzare in zona Buziasului
+38	38	0	1000	[174]UMT, renovat , mobilat , bloc anvelopat
+140	140	3	1000	[193]Apartament de vanzare 4 camere decomandat zona Centrala
+69	69	2	1000	[213]Lipovei - 2 Cam Dec - Parter - Mobilat
+72	72	3	1000	[164]Aradului-Selgros,terasa spatioasa,centrala proprie
+40	40	0	1000	[228]Soarelui, decomandat, etaj intermediar
+90	90	3	1000	[179]Aradului bloc nou 3 camere lux !!
+48.4	48.4	2	1000	[237]0 % COMISION. Vila 2016 la cheie. Compartimentat EXCELENT
+68	68	3	1000	[169]Decomandat. 2 bai. Mobilat.
+93	92.73	3	1002.91167906826	[203]Bloc nou in oras! Suprafata Mare! Mijloace de transport!
+82	81.76	4	1002.93542074364	[223]Etaj intermediar. Zona linistita.
+55.3	55	2	1005.45454545455	[188]Girocului, centrala termica, izolat termic
+78	77.55	3	1005.80270793037	[208]2 bai. Decomandat. Terasa de 11 mp.
+58.095	57.72	2	1006.49688149688	[159]2 camere si loc de parcare inclus in constructie noua, zona Aradului
+52.381	52.04	2	1006.5526518063	[193]2 camere si loc de parcare inclus in constructie noua, zona Aradului
+74.5	74	3	1006.75675675676	[193]De vanzare apartament cu 3 camere, etajul I , zona Girocului
+56.4	56	2	1007.14285714286	[179]2 camere,etajul 1 ,zona Aradului,centrala proprie
+54.762	54.3	2	1008.50828729282	[223]2 camere si loc de parcare inclus in constructie noua, zona Aradului
+57.5	57	3	1008.77192982456	[203]Apartament de vânzare 3 camere
+51	50.5	2	1009.90099009901	[187]Decomandat. Finisat la cheie
+50.5	50	2	1010	[164]Decomandat. Centrala proprie.
+49.5	49	2	1010.20408163265	[228]2 camere, Dambovita zona linistita
+95	94	3	1010.63829787234	[237]BLOC NOU 3 camere 90 mp
+59.7	59	3	1011.86440677966	[213]0 % COMISION. Vila 2016 la cheie. Compartimentat EXCELENT. Finisaje
+42.5	42	2	1011.90476190476	[228]Calea Sagului, 2 camere, mobilat si utilat
+72.9	72	3	1012.5	[164]Etaj intermediar, zona linistita , dotat cu centrala proprie!
+71	70	3	1014.28571428571	[158]Proprietar - vand urgent ap. 3 camere - Lipovei
+69	68	3	1014.70588235294	[213]Girocului, etaj intermediar, decomandat
+34.5	34	0	1014.70588235294	[169]Aradului,centrala proprie,etaj intermediar
+68	67	3	1014.92537313433	[223]Dambovita, 3 camere, amenajat
+65	64	3	1015.625	[179]Apartament cu 3 camere situat in zona de Nord a orasului.
+96.5	95	3	1015.78947368421	[237]Apartament cu 3 camere zona Ultracentral - Piata Victoriei
+49.8	49	2	1016.32653061224	[228]Girocului , renovat, spatios
+57.5	56.57	2	1016.43980908609	[198]Decomandat. Dormitor cu dressing. Loc de parcare.
+50	49.17	2	1016.88021151108	[188]Tipografilor. Bloc cu acoperis.Posibilitate centrala.
+59	58	3	1017.24137931034	[232]Apartament nr. 8
+58	57	2	1017.54385964912	[208]Amenajat. Zona linistita.
+115	113	3	1017.69911504425	[198]Complexul Studentesc, bloc in asociatie, renovat
+56	55	2	1018.18181818182	[218]Torontalului ,decomandat , etaj intermediar , boxa
+55	54	2	1018.51851851852	[223]Semicentral,decomandat,etaj intermediar
+82.5	81	3	1018.51851851852	[158]Bloc constructie 2008,cu gradini si foisoare
+53	52	2	1019.23076923077	[216]Centrala termica proprie. Decomandat. Vedere pe 2 parti.
+52	51	2	1019.60784313725	[213]Etaj intermediar. La doi pasi de Profi.
+51	50	2	1020	[223]Mobilat si utilat. Etaj intermediar
+50	49	2	1020.40816326531	[169]Apartament 2 camere, Balcescu - Odobescu,
+97	95	4	1021.05263157895	[174]Decomandat. Etaj intermediar.Centrala proprie
+71.5	70	3	1021.42857142857	[203]Centrala proprie.Mobilat
+47	46	2	1021.73913043478	[193]2 camere,zona Lipovei,model decomandat
+92	90	3	1022.22222222222	[218]Apartament cu 3 camere in bloc nou,90 mp utili,finisaje de calitate.
+68.5	67	3	1022.38805970149	[203]Lipovei, decomandat, centrala proprie
+22.5	22	0	1022.72727272727	[208]Buziasului - ideal investitie
+33	32.23	0	1023.89078498294	[223]Decomandat. Bucatarie inchisa.
+125	122	4	1024.59016393443	[237]Piata Balcescu Odobescu D+P+M+E de 143mp
+83	81	3	1024.69135802469	[193]Zona Garii, bloc nou, amenajat.
+76.9	75	3	1025.33333333333	[218]Apartament 3 camere | renovat, mobilat si utilat lux | proprietar
+80	78	4	1025.64102564103	[164]Mircea cel Batran,etaj 2, garaj,boxa
+75	73	3	1027.39726027397	[174]Garaj.Mobilat si Utilat.Centrala proprie
+25.7	25	0	1028	[179]GARSONIERĂ COMPLEX
+54.5	53	2	1028.30188679245	[218]Aradului Est, 2 camere, etaj 3, centrala
+72	70	3	1028.57142857143	[237]Decomandat. Centrala proprie. Zona buna
+53.5	52	3	1028.84615384615	[208]Apartament 3 camere cu centrala Zona Dacia- Labirint
+71	69	3	1028.98550724638	[237]Proprietar vand 3 cam la et.1 in bloc nou zona Aradului
+69.999	68	3	1029.39705882353	[223]Bucovina,parter,decomandat
+70	68	2	1029.41176470588	[179]La 1 minut de Continental si Bega!
+69	67	3	1029.85074626866	[174]Dambovita, spatios, luminos, amenajat
+51.5	50	3	1030	[179]Girocului -etaj 1 , mobilat , clima
+67	65	3	1030.76923076923	[193]Buziasului-Soarelui, etaj intermediar, centrala termica
+49.5	48	2	1031.25	[218]Calea Aradului
+33	32	0	1031.25	[188]Mobilat si utilat. Etaj 2. CENTRALA PROPRIE.
+66	64	2	1031.25	[237]BLOC NOU! IN ORAS! Mobilat si utilat complet!
+65	63	3	1031.74603174603	[198]Simion Barnutiu,3 camere cu garaj
+56.8	55	2	1032.72727272727	[228]Decomandat.Etaj intermediar.
+93	90	4	1033.33333333333	[213]Dacia,etaj intermediar,90 mp utili
+62	60	3	1033.33333333333	[223]Girocului-Plavat II , decomandat -2balcoane ,etaj 2
+76.5	74	2	1033.78378378378	[208]Central,amenajat,centrala
+59	57	2	1035.08771929825	[226]Compartimentat modern. Mobilat si utilat
+58	56	2	1035.71428571429	[169]apartament de vinzare
+57	55	2	1036.36363636364	[174]Piata Doina, etaj intermediar, centrala termica proprie
+85	82	4	1036.58536585366	[228]Aradului Vest,amenajat,etaj 3
+56	54	2	1037.03703703704	[217]Bloc izolat.Centrala proprie.Mobilat si utilat
+69.5	67	3	1037.31343283582	[228]Soarelui , etaj 1 , centrala , decomandat
+41.5	40	2	1037.5	[159]Renovat. Posibilitate centrala termica
+55	53	2	1037.7358490566	[193]Lunei, decomandat, centrala proprie
+68.5	66	3	1037.87878787879	[198]Centrala termica proprie. Etaj intermediar. Bloc izolat.
+54	52	2	1038.46153846154	[174]Spatios. Aproape de Spitalul Judetean. Cu toate facilitatile pentru a te
+80	77	3	1038.96103896104	[193]De vanzare apartament cu 3 camere, constructie noua, zona Aradului
+53	51	2	1039.21568627451	[223]Spatios. Luminos. Zona linistita
+52	50	2	1040	[198]Dambovita, parter inalt, amenajat, centrala termica proprie
+75	72	3	1041.66666666667	[223]Aradului,etaj 3,mobilat/utilat
+73	70	3	1042.85714285714	[237]3 CAMERE, LIPOVEI, UTILAT ŞI MOBILAT MODERN
+48	46	2	1043.47826086957	[179]ETAJUL 1. SPITALUL JUDETEAN.
+23	22	0	1045.45454545455	[159]vind garsoniera
+69	66	3	1045.45454545455	[169]De vanzare apartament 3 camere, decomanda bloc izolat, etaj 2 - zona
+92	88	3	1045.45454545455	[208]Apartament de lux, 3 camere, 90mp, mobilat, 2 terase
+68	65	3	1046.15384615385	[164]Aradului,amenajat,aproape de Piata Verde
+33.5	32	0	1046.875	[159]Fratelia, amenajat, centrala termica proprie
+88	84	3	1047.61904761905	[164]Apartament cu 3 camere, decomandat, de vanzare in zona Bucovina
+66	63	3	1047.61904761905	[223]Zona Cetatii , parter inalt
+54.5	52	3	1048.07692307692	[228]Ideal Investitie! Cel mai bun pret!
+65	62	2	1048.38709677419	[169]2 Camere, complex, amenajat, modern
+36.7	35	0	1048.57142857143	[213]Complexul Studentesc, SU 36 mp, balcon
+53.5	51	2	1049.01960784314	[198]Proprietar vand 2 cam in bloc nou Aradului decomandat
+59.8	57	3	1049.12280701754	[211]Vand apartament cu 3 cam, decomandat, mobilat, Str. Verde, Zona I.I. de
+85	81	3	1049.38271604938	[218]3 cam-Gara de Nord-81 mp- dec-Bloc nou-Parcare privata
+42	40	2	1050	[174]Piata Doina, etaj intermediar, amenajari clasice
+52.5	50	2	1050	[237]De vanzare apartament in Timisoara, 2 camere, in zona Girocului
+63	60	3	1050	[164]Torontal,decomandat,amenajat lux
+49.4	47.04	2	1050.17006802721	[164]Bloc nou 2016. Decomandat. Bucatarie separata inchisa
+79.7	75.83	3	1051.03521033892	[159]Proiect Nou, Aradului, Decomandat, 2 bai, Finalizare 2017
+80	76	4	1052.63157894737	[223]Aradului Vest , centrala , decomandat, boxa , mobilat si utilat
+60	57	3	1052.63157894737	[198]Izolat.Mobilat.Boxa
+100	95	3	1052.63157894737	[237]Marasti ! Apartament 3 camere , decomandat , confort 1 , 95 mp !
+69.5	66	3	1053.0303030303	[174]Decomandat.Etaj 1.Mobilat.Centrala Proprie.
+59	56	3	1053.57142857143	[207]Lipovei, 3 camere, etaj intermediar, garaj
+68.5	65	3	1053.84615384615	[223]Girocului, etaj intermediar
+78	74	3	1054.05405405405	[213]Bloc Nou. In ORAS - GIROCULUI. Decomandat
+58	55	3	1054.54545454545	[208]LIPOVEI, APARTAMENT 3 CAMERE
+47.5	45.04	2	1054.61811722913	[213]Apartament 2 camere Braytim in bloc nou 2015!
+57	54	2	1055.55555555556	[228]Transformat in 3 camere. Izolat termic exterior. Centrala termica
+56	53	2	1056.60377358491	[179]Centrala Proprie.Aproape de parc.
+50	47.32	2	1056.63567202029	[179]Decomandat. Bucatarie inchisa. Boxa in pod
+74	70	3	1057.14285714286	[208]Lipovei, bloc nou, lux
+55	52	2	1057.69230769231	[188]Apartament cu doua camere in zona Torontalului.
+90	85	3	1058.82352941176	[227]Bloc de caramida, Garaj, Boxa, Posibilitate montare centrala!
+57.5	54.3	2	1058.93186003683	[198]Bloc nou, Loc de Parcare
+53	50	3	1060	[178]Disponibil imediat. Zona linistita.
+70	66	3	1060.60606060606	[169]Girocului-Lidia , etaj 3 , centrala termica , 2 bai
+87	82	3	1060.9756097561	[192]De vanzare apartament 3 camere, zona Central - Piata Balcescu
+32.9	31	0	1061.29032258065	[223]Lipovei, 1 camera, amenajat
+69	65	3	1061.53846153846	[218]Lipovei,Amenajat frumos,Etaj intermediar
+68	64	3	1062.5	[213]Apartament 3 camere in cladire noua, zona Lipovei, finisaje superioare
+79.7	75	3	1062.66666666667	[218]Proiect Nou, 3 camere , 2 balcoane , Propietar.
+58.5	55	2	1063.63636363636	[208]Circumvalatiunii- 2 cam- DC- 58500 EUR Neg!
+50	47	2	1063.82978723404	[228]2 Camere cu centrala si clima Zona Girocului
+83	78	3	1064.10256410256	[193]GARAJ - BOXA - CENTRALA
+76.5	71.83	2	1065.0146178477	[179]3 camere , Propietar. Proiect Nou-Iris 7, Finalizare Octombrie 2017
+81	76	3	1065.78947368421	[228]Lipovei- 3 cam- Dec- Et 2- 81000 EUR Neg
+80	75	3	1066.66666666667	[159]Apartament format din 3 camere de vanzare in zona Aradului.
+32	30	0	1066.66666666667	[169]Garsonieră de vânzare
+66.7	62.53	2	1066.68798976491	[193]De vanzare apartament 2 camere ideal pentru investitie
+91.8	86.04	3	1066.94560669456	[228]3 camere in constructie noua, 0% comision
+39.5	37	0	1067.56756756757	[197]Apartament cu 1 camera decomandat in bloc nou cal.Aradului
+47	44	2	1068.18181818182	[188]Freidorf, decomandat, etaj intermediar
+62	58	2	1068.96551724138	[223]Bucovina. Modelul mare. Decomandat.Centrala termica proprie.
+75.899	71	3	1069	[159]Aradului,etaj intermediar,centrala,amenajat
+69.5	65	3	1069.23076923077	[228]Centrala termica proprie. Etaj intermediar. 2 bai.
+38.5	36	2	1069.44444444444	[193]Etaj 1. Zona linistita.
+46	43	2	1069.76744186047	[193]Etaj 2. Aproape de Billa Sagului.
+61	57	2	1070.17543859649	[193]Aradului,bloc nou,mobilat
+58.9	55	3	1070.90909090909	[188]Garaj.Boxa. Posibilitate centrala
+75	70	3	1071.42857142857	[208]Lipovei, decomandat, etaj intermediar, boxa+garaj
+60	56	2	1071.42857142857	[237]Izolat, mobilat si utilat
+150	140	4	1071.42857142857	[174]Vand casa noua,140mp cons /540mp teren,Zona Modern
+79.9	74.5	3	1072.48322147651	[159]Apartament nou de vanzare Timisoara - Torontalului, 3 camere, bloc Iris
+67.5	62.86	2	1073.81482659879	[193]O suprafata generoasa in constructie noua, zona Spitalul Judetean, 0%
+58	54	2	1074.07407407407	[179]Apartament doua camere in cladire noua, zona Lipovei, finisaje
+72	67	3	1074.62686567164	[202]Lipovei, decomandat, centrala proprie
+69.9	65	2	1075.38461538462	[198]SPATIOS IN ZONA BUCOVINA
+66.7	62	2	1075.8064516129	[198]De vanzare apartament cu 2 camere in constructie noua zona Soarelui
+56	52	3	1076.92307692308	[159]Dambovita, centrala termica proprie, amenajat
+70	65	3	1076.92307692308	[203]Vand apartament 3 camere - B-dul Cetatii, Timisoara
+55	51	2	1078.43137254902	[208]Girocului-Plavat, etaj intermediar, recent amenajat
+205	190	5	1078.94736842105	[188]APARTAMENT DE VIS CU 5 CAMERE 190 mp -utili
+79.9	74	3	1079.72972972973	[164]Propietar, 3 cam. de vanzare in Timisoara, Bloc Nou , Finalizare
+54	50	2	1080	[208]Recent renovat, izolat, CENTRALA proprie
+79.897	73.8	3	1082.61517615176	[164]Apartament cu 3 camere de vanzare in zona Braytim
+81.89	75.6	3	1083.20105820106	[179]Apartament cu 3 camere de vanzare in zona Braytim
+65	60	3	1083.33333333333	[193]Etaj 2. Decomandat
+78	72	3	1083.33333333333	[164]Centrala termica proprie. 3 balcoane. Mobilat si utilat complet.
+45.5	42	2	1083.33333333333	[188]Etaj 1. CENTRALA PROPRIE.
+64	59	2	1084.74576271186	[198]Apartament 2 cam dec zona Cluj
+51	47	2	1085.10638297872	[174]Sagului, 2 camere
+105	96.76	3	1085.15915667631	[223]De vanzare penthouse 3 camere, spatiu generos in constructie noua
+140	129	4	1085.27131782946	[179]Spatiu si confort in zona Unirii.
+43.5	40	2	1087.5	[228]Vila 2016, 2 locuri de parcare
+62	57	2	1087.71929824561	[218]Pretabil spatiu comercial. Bloc izolat.
+53.483	49.09	2	1089.48869423508	[203]Apartament cu 2 camere de vanzare in zona I. I. de la Brad
+60	55	2	1090.90909090909	[223]Etajul 1. Centrala proprie. Decomandat.
+75.3	69	3	1091.30434782609	[174]3 Camere Ultracentral 77000 Euro negociabil
+53	48.54	2	1091.88298310672	[208]Centrala proprie.Vedere pe 2 parti
+83	76	4	1092.10526315789	[172]De vanzare apartament cu 4 camere, mobilat si utilat, LUX - zona
+71	65	3	1092.30769230769	[169]3 camere de vanzare in zona Aradului -Vest
+47	43	2	1093.02325581395	[198]Gara de Nord, constructie 2008, amenajat
+61	55.8	2	1093.18996415771	[174]Personalizeaza apartamentul, Iris 7-Aradului, Propietar
+82	75	3	1093.33333333333	[228]Apartament trei camere, in vila cu trei apartamente, zona Braytim
+70	64	3	1093.75	[174]Centrala proprie.Decomandat.Mobilat si utilat
+61	55.74	2	1094.36670254754	[164]Dezvoltator, Proiect nou Iris 7, Zona Aradului,
+79.9	73	3	1094.52054794521	[174]Bloc Nou, Finalizare Noiembrie 2016, Dezvoltator, 2 balcoane
+59.5	54.35	2	1094.75620975161	[208]Propietar, Proiect Nou, Finalizare in Octombrie-Noiembrie 2017.
+28.5	26	0	1096.15384615385	[174]Bucovina , parter
+57	52	2	1096.15384615385	[228]Vedere pe 2 parti. 2 balcoane.Centrala proprie.
+59	53.8	2	1096.65427509294	[174]Bloc Nou, Iris 7, Dezvoltator, Finalizare Octombrie 2017
+68	62	3	1096.77419354839	[179]Aradului,etaj 3,semidecomandat,bloc izolat termic cu acoperis de tigla
+97.74	89.05	3	1097.58562605278	[169]Apartament cu 3 camere de vanzare in zona I. I. de la Brad
+54.9	50	3	1098	[159]Mobilat si utilat.Pregatit pentru centrala.Izolat interior
+56	51	2	1098.03921568627	[218]TORONTAL , MOBILAT SI UTILAT COMPLET
+58.5	53.2	2	1099.62406015038	[228]Dezvoltator, Proiect Nou , Finalizare Octombrie-Noiembrie 2017
+51.7	47	2	1100	[223]Constructie noua , Torontal , lift+loc de parcare
+55	50	2	1100	[208]Calea Aradului ,blocul nou
+66	60	3	1100	[203]Bloc de caramida.Centrala proprie.Loc de parcare
+110	100	3	1100	[223]PF. vand apartament deosebit, central langa liceul G Moisil
+59.4	54	2	1100	[218]Braytim - predare la cheie
+44	40	2	1100	[169]Pozitie foarte buna -Dacia , etaj 2
+72.6	66	3	1100	[169]3 camere bloc NOU !!!
+22	20	0	1100	[159]Garsoniera de vanzare in zona Blascovici .
+73.5	66.81	3	1100.1347103727	[169]Constructie 2016, Compartimentari excelente
+59.5	54	2	1101.85185185185	[179]Complet mobilat. Centrala proprie. Izolat
+43	39	2	1102.5641025641	[188]Etaj 1, baie cu geam!
+58.5	53	2	1103.77358490566	[203]Proiect Nou , Iris 7 zona Aradului, Propietar
+52.999	48	2	1104.14583333333	[174]Decomandat , etaj 2 , Aradului-Piata Verde
+86.692	78.4	3	1105.76530612245	[213]Apartament cu 3 camere de vanzare in zona Braytim
+86.732	78.4	3	1106.27551020408	[198]Reinventeaza viata la bloc!
+68.323	61.68	2	1107.70103761349	[163]Apartament cu 2 camere de vanzare in zona I. I. de la Brad
+62.927	56.8	2	1107.86971830986	[223]Apartament cu 2 camere de vanzare in zona Braytim
+68.061	61.43	2	1107.9440013023	[198]Apartament cu 2 camere de vanzare in zona I. I. de la Brad
+62.974	56.8	2	1108.69718309859	[159]Apartament cu 2 camere de vanzare in zona Braytim
+61	55	2	1109.09090909091	[218]Centrala Proprie. Zona Linistita.
+71	64	3	1109.375	[203]Mobilat si utilat.Centrala proprie.Etaj intermediar.
+35.5	32	0	1109.375	[159]Calea Buziasului, decomandat, SU-32mp
+66.066	59.52	2	1109.97983870968	[179]Apartament cu 2 camere de vanzare in zona I. I. de la Brad
+75.5	68	4	1110.29411764706	[198]Aradului Vest,parter,decomandat,garaj in baterie
+39.99	36	0	1110.83333333333	[228]Apartament o camera, Ultracentral, pretabil pentru locuit, investitie
+60	54	2	1111.11111111111	[237]De vanzare apartament 2 (doua) camere, zona Lipovei
+50	45	2	1111.11111111111	[213]2 camere,parter,zona Tipografilor,amenajat modern.
+80	72	3	1111.11111111111	[159]Apartament mobilat si utilat la etaj intermediar cu garaj.
+64.5	58	4	1112.06896551724	[188]4 camere,etaj intermediar,zona Dacia
+79	71	3	1112.67605633803	[203]Calitate. Bloc nou. Compartimentare excelenta.
+62.829	56.4	2	1113.98936170213	[206]Apartament cu 2 camere de vanzare in zona Braytim
+58	52	2	1115.38461538462	[174]2 camere,amenajat modern,zona Lipovei,foarte aproape de mijloacele de
+67	60	4	1116.66666666667	[198]Dacia,etaj intermediar,centrala termica
+57	51	2	1117.64705882353	[218]Zona linistita.Pregatit pentru centrala.
+74.9	67	3	1117.91044776119	[164]3 camere ,zona Bucovina,etaj intermediar
+42.5	38	2	1118.42105263158	[193]Zona linistita. Suprafata generoasa
+85	76	4	1118.42105263158	[237]2 bai, 2 balcoane, vedere 2 parti
+64.9	58	3	1118.96551724138	[169]3 CAM, BLOC NOU, CENTRAL, CALEA TORONATALULUI NR 32
+75	67	3	1119.40298507463	[237]Vedere 2 parti.Etaj intermediar.
+28	25	2	1120	[203]Girocului-Plavat, decomandat
+56	50	2	1120	[213]Amenajat.Posibilitate Centrala.
+65	58	2	1120.68965517241	[174]Mircea cel Batran, amenajat,58 mp utili !!!
+37	33	0	1121.21212121212	[213]Girocului, decomandat
+55	49	2	1122.44897959184	[179]Renovat.Posibilitate centrala.
+110	98	3	1122.44897959184	[174]Blajcovici, singur pe etaj, spatios, amenajat
+64	57	2	1122.80701754386	[223]Etaj intermediar. Garaj.
+73	65	3	1123.07692307692	[228]Centrala termica proprie. Bloc izolat. 3 balcoane
+82.974	73.8	3	1124.30894308943	[196]Apartament cu 3 camere de vanzare in zona Braytim
+90	80	3	1125	[203]DOROBANŢILOR, 3 CAMERE
+67.5	60	3	1125	[174]Centrala proprie. Aproape de Piata Dacia
+45	40	2	1125	[169]Dambovita, etaj intermediar, centrala proprie, izolat termic
+39.5	35	0	1128.57142857143	[218]Fabric, centrala proprie, amenajat modern
+79	70	3	1128.57142857143	[179]Lipovei, 3 camere, garaj+boxa
+35	31	0	1129.03225806452	[169]Proprietar: Vand apartament 1 cam, zona Dorobanti
+56.5	50	2	1130	[169]Etaj 1 , amenajat-decomandat , mobilat si utilat
+45.2	40	2	1130	[203]Zona Dacia ,MOBILAT SI UTILAT
+75.9	67	3	1132.83582089552	[218]Zona Mall,complet mobilat si utilat, modern
+51	45	2	1133.33333333333	[159]Mircea cel Batran,bloc nou,comision 0
+59	52	2	1134.61538461538	[179]Spatios, zona centrala
+42	37	0	1135.13513513514	[191]Apartament decomandat Lidia- Prospero
+79.5	70	3	1135.71428571429	[218]APARTAMENT LUX ARADULUI COMISION 0%
+49	43	2	1139.53488372093	[159]Negociabil, complet mobilat si utilat. Centrala PROPRIE. La 3 minute de
+57	50	2	1140	[218]Kiriac, amenajat, centrala termica
+65	57	3	1140.35087719298	[218]Etajul 2. Centrala proprie. Decomandat.
+73	64	3	1140.625	[237]Etaj Intermediar.Complet Mobilat si Utilat.Centrala Proprie
+68.5	60	2	1141.66666666667	[188]De vanzare apartament in zona Prefectura
+72	63	3	1142.85714285714	[169]Mircea cel Batran,bloc nou,comision 0
+80	70	3	1142.85714285714	[179]Bucovina,parter,amenajat,2 bai
+32	28	0	1142.85714285714	[218]Lipovei, 1 camera, amenajat
+79	69	3	1144.92753623188	[159]Calitate. Bloc nou. Compartimentare excelenta.
+63	55	2	1145.45454545455	[174]APARTAMENT MODERN LIPOVEI
+189	165	3	1145.45454545455	[174]Apartament de vanzare 3 camere, zona Neptun
+55	48	2	1145.83333333333	[159]Complet mobilat si utilat.
+62	54	2	1148.14814814815	[164]2 camere,zona Aradului(centrul bancar),pretabil pentru spatiu comercial.
+76	66.17	3	1148.55674777089	[179]Decomandat, 2 Bai, Langa Kaufland
+169	147	4	1149.65986394558	[164]Rafinament si spatiu in zona Centrala
+69	60	2	1150	[169]De vanzare apartament deosebit cu 2 camere in zona Lipovei
+46	40	2	1150	[223]Dambovita, etaj intermediar, centrala termica proprie
+57.5	50	2	1150	[237]Mobilat si Utilat.Balcon de 8 mp.Centrala proprie
+41.5	36	0	1152.77777777778	[213]Complexul Studentesc, etaj intermediar, decomandat
+56.5	49	2	1153.0612244898	[188]De vanzare apartament cu 2 camere situat in zona Aradului
+41.054	35.6	0	1153.20224719101	[193]Apartament cu 1 camere de vanzare in zona Braytim
+75	65	3	1153.84615384615	[193]Etaj 3. Centrala proprie. Aproape de Iulius Mall.
+60	52	2	1153.84615384615	[169]2 camere,etajul 1 ,zona Lipovei
+85.47	74	3	1155	[193]Braytim - predare la cheie
+52	45	3	1155.55555555556	[174]Centrala proprie. Dambovita.
+126	109	3	1155.96330275229	[222]Semi-Central,3 camere,amenajat modern,109 mp utili
+81	70	3	1157.14285714286	[174]Aradului,etaj inetrmediar, mobilat/utilat,garaj
+51	44	2	1159.09090909091	[193]2 camere ,terasa extinsa 15mp bloc nou,zona Mircea Cel Batran
+58	50	2	1160	[213]Lipovei, 2 camere, decomandat, amenajat
+65	56	2	1160.71428571429	[164]Dumitru Kiriak, decomandat, amenajat
+72	62	3	1161.29032258065	[203]Ap 3cam,centrala proprie,COMPLEX
+65.986	56.8	2	1161.72535211268	[183]Apartament cu 2 camere de vanzare in zona Braytim
+79	68	3	1161.76470588235	[198]Noul proiect INTEGRA Lidia-Mures VI
+37.3	32	0	1165.625	[237]Zona UMT,amenajat,mobilat si utilat
+63	54	2	1166.66666666667	[208]EXCLUSIVITATE-Apartament cu 2 camere situat semicentral,recent renovat
+54.9	47	2	1168.08510638298	[169]Brancoveanu, 2 camere, amenajat
+90	77	3	1168.83116883117	[193]Aradului, bloc nou, 2 bai
+76	65	3	1169.23076923077	[218]Calea Sagului, spatiu, calitate si confort
+82	70	3	1171.42857142857	[188]Terasa de 25 Mp, Loc de Parcare
+61	52	2	1173.07692307692	[237]Centrala proprie. Renovat.
+78.5	66.81	3	1174.97380631642	[198]Constructie 2016, Compartimentari excelente
+47	40	2	1175	[208]Posibilitate montare centrala.Pretabil si pentru cabinet
+60	51	2	1176.47058823529	[164]Garaj sub bloc.Etaj 1.Centrala proprie.
+66	56	2	1178.57142857143	[237]BUCOVINA. MODEL MARE. AMENAJAT SI MOBILAT
+59	50	2	1180	[164]Apartament nou cu gradina si terasa proprie
+64.9	55	2	1180	[208]Apartament mobilat de vanzare in Calea Torontalului - 64.900 Euro
+84	71	3	1183.0985915493	[218]Ultracentral, spatios si bine luminat, cu vedere spre Catedrala
+58	49	2	1183.67346938776	[213]Dambovita, etaj intermediar, decomandat
+41.5	35	2	1185.71428571429	[213]Vand apartament cu doua camere
+47.5	40	2	1187.5	[228]Etajul 2. Complet mobilat.
+67	56	3	1196.42857142857	[198]Etajul 1. Centrala proprie. Decomandat.
+124.7	104	3	1199.03846153846	[169]0% COMISION!!! EXCLUSIV!!! BLOC NOU! Langa mijloc de transport!
+54	45	2	1200	[188]Lipovei, 2 camere, decomandat, etaj intermediar
+60	50	2	1200	[198]Lunei, decomandat, centrala proprie, modernizat
+156	130	3	1200	[164]Mobilat si Utilat.Finisaje de Exceptie.Centrala proprie
+65	54	2	1203.7037037037	[218]Plavat ll-Girocului, 2bai , parter
+41	34	0	1205.88235294118	[198]Girocului, decomandat, etajintermediar
+75	62	2	1209.67741935484	[213]Apartament superb cu 2 camere - str. Lorena
+37.5	31	0	1209.67741935484	[164]Dambovita, decomandat, centrala termica proprie
+97	80	3	1212.5	[203]De vanzare apartament cu 3 camere - Zona Ultracentrala
+51	42	2	1214.28571428571	[164]2 camere ,zona Aradului,amenajat
+85	70	3	1214.28571428571	[179]Complet mobilat si utilat.Centrala Proprie.Et intermediar
+79	65	3	1215.38461538462	[159]3 camere,etaj intermediar,amenajat modern,garaj,zona Lipovei
+43.9	36	0	1219.44444444444	[198]Elisabetin, amenajat, etaj intermediar
+55	45	2	1222.22222222222	[203]ETAJ INTERMEDIAR. SPITALUL JUDETEAN.
+98	80	3	1225	[164]Apartament cu 3 camere, ultracentral, amenajat, mobilat
+75.95	62	2	1225	[223]Apartament cu 2 camere de vanzare in zona Central
+68	55	2	1236.36363636364	[159]2 camere+1. Decomandat. Mobilat si utilat.
+62	50	2	1240	[221]2 CAMERE, AMENAJAT MODERN, LIPOVEI
+203.76	163.63	4	1245.24842632769	[218]Penthouse de lux - zona Soarelui - EXCLUSIVITATE
+65	52	3	1250	[237]3 camere,zona Dacia ,pozitie excelenta
+75	60	3	1250	[228]Vedere pe 2 parti.Centrala proprie. Amenajat
+150	120	3	1250	[193]De vanzare apartament cu 3 camere, spatios, mobilat si utilat, zona
+40	32	0	1250	[193]CENTRALA - MOBILAT - DOROBANTI
+35	28	0	1250	[188]Girocului-Plavat, amenajat
+26.5	21	0	1261.90476190476	[203]Aradului est, o camera, m ansarda, mobilata/utilata cu gust, ideala
+120	95	3	1263.15789473684	[232]Apartament modern, spatios, complet mobila si utilat!
+80	63	3	1269.84126984127	[213]De vanzare apartament 3 camere, zona Balcescu
+159	125	4	1272	[174]Penthouse cu priveliste deosebita in constructie moderna!
+64.9	51	2	1272.54901960784	[228]De vanzare apartament 2 (doua) camere, zona Balcescu - Elisabetin
+280	220	4	1272.72727272727	[192]Vanzare penthouse pe doua nivele.LUX,confort si dotari premium
+28	22	0	1272.72727272727	[228]Garsoniera de vanzare in zona Lipovei,etajul 2 ,pozitie excelenta
+51	40	2	1275	[169]Merita vazut, Centrala proprie
+58	45	2	1288.88888888889	[193]Elegant si modern
+110	85	4	1294.11764705882	[208]Zona linistita.Bloc de caramida.2 pe nivel
+73.9	57	3	1296.49122807018	[188]Zona Buna. Renovat.
+130	100	3	1300	[223]Vila cu 2 locatari. 3 camere + anexa.
+98	75	3	1306.66666666667	[208]Apartament de vânzare 3 camere
+55	42	2	1309.52380952381	[198]Zona linistita, pretabil firma
+118	90	3	1311.11111111111	[174]Proprietar.3 camere.Garaj.Bloc nou.Zona de case.str.Mures(Braytim)
+99	75	3	1320	[228]Zona Pirvan,ap 3 camere, decomandat,75 mp,etaj 2/8,2 bai,2 balc,99.000
+199	150	4	1326.66666666667	[208]Apartament de vânzare 4 camere
+240	180	4	1333.33333333333	[169]APARTAMENT CU 4 CAMERE COMPUS DIN 2 APARTAMENTE
+72.5	54	2	1342.59259259259	[193]Apartament complet mobilat si utilat!!
+73.9	55	3	1343.63636363636	[202]Take Ionescu,renovat 2016,bucatarie mobilata si utilata
+35	26	0	1346.15384615385	[228]Lunei, parter inalt, amenajat
+75.5	56	3	1348.21428571429	[213]Sagului, 3 camere
+73	54	2	1351.85185185185	[159]Calea Aradului, constructie 2012, loc parcare
+95	70	2	1357.14285714286	[203]Pozitie excelenta, Spatios, Luminos
+34	25	0	1360	[208]Calea Aradului
+115	84	3	1369.04761904762	[198]Vând apartament 3 camere in bloc asociatie
+81.258	59	3	1377.25423728814	[169]Apartament de vânzare 3 camere
+58	42	2	1380.95238095238	[164]Mehala,construcitie 2012,etaj 1
+54	39	2	1384.61538461538	[237]De vanzare apartament 2 (doua) camere - zona Complexul Studentesc
+75	54	2	1388.88888888889	[159]Torontalului, Apartament 2 camere, Zona Rezidentiala, Centrala, Clima
+122	87	3	1402.29885057471	[169]Apartament cu 3 camere de vanzare in zona ULTRACENTRALA - Timisoara
+17	12	2	1416.66666666667	[198]Dacia, o camera, mobilata. ideala pt investitii
+130	91	3	1428.57142857143	[169]Apartament 3 camere semidecomandate (91mp) + garaj (28mp) Ultracentral
+35.9	25	0	1436	[237]Balceascu, ideal ca investitie
+145	100	4	1450	[159]Vand apartament în vilă, Timisoara
+170	117	4	1452.99145299145	[203]4 camere Medicina etaj 1 LUX
+160	110	4	1454.54545454545	[164]La 2 pasi de Catedrala. Centrala proprie
+139.9	96	3	1457.29166666667	[193]Semicentral,centrala,amenajari de lux
+70	48	2	1458.33333333333	[188]Medicina.Etaj 2. Bloc de caramida.
+45.588	31.2	2	1461.15384615385	[228]Apartament de vânzare 2 camere
+95	65	3	1461.53846153846	[240]Decomandat. Recent renovat.
+75	51	2	1470.58823529412	[203]2 camere semidecomandate Ultracentral in Timisoara
+100	68	2	1470.58823529412	[208]2 camere zona Piata Unirii
+28	19	0	1473.68421052632	[208]Steaua, centrala termica proprie, mobilata si utilata
+37	25	0	1480	[203]Vanzare garsoniera zona Balcescu
+198	132	4	1500	[164]Imobil nou central
+150	100	3	1500	[193]Apartament lux cu 3 camere de vanzare in zona Take Ionescu
+68	45	2	1511.11111111111	[218]Apartament in apropiere de Medicina
+235	155	4	1516.12903225806	[164]Apartament, constructie noua, imobil exclusivist in zona centrala in
+123	80	3	1537.5	[218]Medicina. Centrala proprie. Etaj 2.
+165	107	4	1542.05607476636	[179]Spatios si confortabil in zona centrala
+110	71	3	1549.29577464789	[188]APARTAMENT CENTRAL
+155	100	3	1550	[179]Ultracentral-Medicina,apartament cu garaj, in vila .
+165	105	3	1571.42857142857	[213]PROPRIETAR vand apartament lux - zona Circumvalatiunii
+110	70	4	1571.42857142857	[193]Ultracentral, etaj 1
+158	100	3	1580	[203]Apartament 3 camere, LUX, ultrancentral
+140	88	3	1590.90909090909	[188]Apartament nou, central
+140	87	3	1609.19540229885	[237]Apartament de lux, 3 camere, cladire noua, zona centrala
+158	98	3	1612.24489795918	[164]Apartament deosebit in zona Central
+89	55	2	1618.18181818182	[198]Ultracentral, 2 camere, lux
+325	200	5	1625	[218]Apartament spatios,ultracentral,Timisoara
+165	100	3	1650	[237]Apartament 3 camere Ultracentral
+150	90	4	1666.66666666667	[208]Garaj sub Bloc.Centrala proprie.Mobilat
+165	98	3	1683.67346938776	[237]Apartament 3 camere LUX 165.000 Euro
+42	24	0	1750	[218]Badea Cartan, decomandat, amenajat, mobilat si utilat
+168	90	2	1866.66666666667	[208]De vanzare apartament cu 2 camere in zona Ultracentrala
+95	50	2	1900	[203]Ultracentral - 2 cam - 50 mp utili - Mobilat, Utilat FULL! LUX

@@ -8,22 +8,33 @@ use Data::Dumper;
 use DBI;
 binmode STDOUT, ":utf8";
 
+#local $/= undef;
 my $filename = $ARGV[0];
 open(my $fh, '<:encoding(UTF-8)', $filename)
     or die "Could not open file '$filename' $!";
-    #                      0        1      2        3      4        5           6
+
+
+my @file_content=<$fh>;
+close $fh;
+
+
+
+
+    #                      0        1      2        3      4        5           6	7
 #my @akeys = ( "raw" ,"rap","eur","mp","title","zona","nrcamere" );
-my @akeys = ("eur", "mp" , "nrcamere", "rap", "raw", "title", "zona" );
+my @akeys = ("eur", "mp" , "nrcamere", "rap", "raw", "title", "zona","url" );
 my $start=0;
 my $stop=0;
 my $count=-1;
 my $first_found =0;
 my @ArrayofHashes =0;
 my $record_str="";
-while (my $row = <$fh>) {
+#while (my $row = <$fh>) {
+foreach my $row (@file_content) {
     chomp $row;
-    if ($row =~ m/^\[\d*\]/)  # detected a new record
+    if ($row =~ m/^\[(\d*)\]/)  # detected a new record
     {
+		my $title_id=$1;
         $count ++;
 
         if ( $record_str ne "" )
@@ -48,6 +59,20 @@ while (my $row = <$fh>) {
         else
         {
             $ArrayofHashes[$count]{$akeys[5]} = $row;
+			my $url="";
+			foreach my $second_iter (@file_content)
+			{
+				#print "TITLE IS $title_id\n";
+				if ($second_iter =~ m/^\s*$title_id\.\s*(.*)/)
+				{
+					$url = $1;
+					#print "AM GASIT ".$second_iter."\n";
+					#print "AM GASIT $url\n";
+					$ArrayofHashes[$count]{$akeys[7]} = $url;
+					last;
+				}
+			}
+
         }
         if ( $start == 0 )
         {
@@ -135,7 +160,7 @@ while (my $row = <$fh>) {
     }
 }
 
-close $fh;
+#close $fh;
 
 #$d = Data::Dumper->Dump(\@ArrayofHashes,[\@ArrayofHashes]);
 #print $d->Dump;
@@ -247,7 +272,8 @@ foreach my $hash (@ArrayofHashes)
     $row  = $row.")";
   	print "SCOLS   ".$scols."\n";    
     print "[ ".$row." ]\n";
-    $dbh->do($row);
+	eval {    $dbh->do($row)  };
+
     
 $indexare ++;
 }

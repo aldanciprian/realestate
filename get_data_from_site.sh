@@ -1,7 +1,7 @@
 #!/bin/sh
 
 #TODAY_DIR=$(date +%d_%h_%Y__%k_%m_%S)
-TODAY_DIR=$(date +%d_%h_%Y)
+TODAY_DIR=html_pages_$(date +%d_%h_%Y)
 mkdir -p ${TODAY_DIR}
 URL_VANZ_TM="http://www.imobiliare.ro/vanzare-apartamente/timisoara?pagina="
 

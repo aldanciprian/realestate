@@ -1,7 +1,13 @@
 #!/bin/bash
-
-for i in $(ls)
+OLD=`pwd`
+for dir in `ls -d  *html_pages*`
 do
-echo "Parse ${i}"
-../extract_data.pl ${i}
+	cd ${dir}
+	for i in $(ls)
+	do
+	echo "Parse ${i}"
+	../extract_data.pl ${i}
+	done
+	cd ${OLD}
 done
+

@@ -288,7 +288,7 @@ $indexare ++;
   $dbh->do("ALTER TABLE content MODIFY rap DOUBLE");
   $dbh->do("ALTER TABLE content MODIFY eur DOUBLE");
   $dbh->do("ALTER TABLE content MODIFY nrcamere DOUBLE");
-  #$dbh->do("ALTER IGNORE TABLE content ADD UNIQUE INDEX idx_uniq (`eur`, `mp`, `nrcamere`, `rap`)");
+  $dbh->do("ALTER IGNORE TABLE content ADD UNIQUE INDEX idx_uniq (`rap`)");
     
   # now retrieve data from the table.
   #my $sth = $dbh->prepare("SELECT eur,nrcamere,rap,title,zona FROM content where nrcamere !='0' order by 'rap'");

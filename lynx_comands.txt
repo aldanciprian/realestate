@@ -1,0 +1,3 @@
+#rommino
+lynx -dump "http://www.romimo.ro/Apartamente/vanzare/Timis/Timisoara/?type=2&resultsperpage=100&keyword=Timisoara&page=1" > main_romino.txt
+

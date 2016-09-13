@@ -1,0 +1,107 @@
+#!/usr/bin/sh  
+	
+#STRUCTURE: BASH CONFIGURATIONS
+
+
+#STRUCTURE: DEFINE VARIABLES AND USAGE OF THE SCRIPT
+	show_help() {
+		echo ""
+	#TEMPLATE_NOTE: `basename $0` is the name of the script, do not replace it, it is a command
+	#TEMPLATE_NOTE:  Write a description about the tool
+		echo -e "\e[36m \e[1mDescription: \e[0m" 
+	#TEMPLATE_NOTE: Write the usage of the script
+	#TEMPLATE_NOTE: 			
+		echo -en "\e[36m \e[1mUsage: \e[0m" 
+	#TEMPLATE_NOTE: Write an example of the command 
+		echo -e "\e[36m \e[1mExample: \e[0m" 
+	}
+
+	
+#STRUCTURE: EXTRACT COMMAND LINE ARGUMENTS
+	#TEMPLATE_NOTE: aruments options
+	#TEMPLATE_NOTE: you can add another options, enumerate them here
+	#TEMPLATE_NOTE: in this case we have help,verbose,option
+	#TEMPLATE_NOTE: help and verbose are without value, but option contain a value, so you will need : after declaring it  ( o: and option: )
+	#TEMPLATE_NOTE: to have an argument with option means for example your_script.sh -size 25
+	# Execute getopt
+	ARGS=$(getopt -o hvo: -l "help,verbose,option:" -n "`basename $0`" -- "$@");
+	#Bad arguments
+	if [ $? -ne 0 ];
+	then
+	 echo "Bad arguments! Showing help..."
+	 show_help
+	  exit 1
+	fi
+	eval set -- "$ARGS";
+
+	
+#STRUCTURE: APPLY COMMAND RULES	
+	VERBOSE=0
+	#TEMPLATE_NOTE: If you add another option, list it here and do what the option requires
+	while true; do
+	  case "$1" in
+		-h|--help)
+		  shift;
+		  show_help	
+		  exit 0
+		  ;;
+		-v|--verbose)
+		  shift;
+		  echo "verbose"
+		  VERBOSE=1
+		  ;;
+		-o|--option)
+		  shift;
+		  echo "case -o | --option"
+		  #this option may have value
+		  if [ -n "$1" ]; then
+			echo "-o : $1";
+			shift;
+		  fi	  
+		  ;;
+		--)
+		  shift;
+		  break;
+		  ;;
+	  esac
+	done
+	NUMBER_OF_ARGUMENTS=$#
+	echo "Number of arguments: $NUMBER_OF_ARGUMENTS"
+	if [ $# -eq 0 ]
+	then
+		#checking we have arguments
+		echo -e "\e[91m At least one argument has to be provided! \e[0m"
+		echo "Showing help..."
+	 show_help
+	 exit -1
+	fi
+	#this option will enable the verbose if it set with -v or -verbose as argument for the script
+	if [ ${VERBOSE} -eq 1 ]
+	then
+		set -x 
+	fi
+ 
+
+
+#checking error code
+	if [ $? -ne 0 ]; then
+		echo -e "\e[91m Command failed...\e[0m"
+	fi
+
+#using regular expressions
+regex_expression="<enter here your regex>"
+	if [[ "$line" =~ $regex_expression ]];
+	then 
+		 # if you have groups , first group match ca be called with ${BASH_REMATCH[1]}, second ${BASH_REMATCH[2]}, etc
+		 echo " It matched !"
+	fi	
+#checking an environment variable
+if [ "x$YOUR_ENV_VARIABLE" == "x" ]; then
+	   echo -e "\e[91m YOUR_ENV_VARIABLE is not defined! \e[0m" 
+	   exit -1
+fi	
+	
+	
+	
+#STRUCTURE: END OF SCRIPT, SUCCESS
+echo "Done!"

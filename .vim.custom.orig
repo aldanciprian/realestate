@@ -1,0 +1,28 @@
+let root='/media/gjdev75/pasarica/mainline_ctb'
+let $CSCOPE_DB = '$root'
+
+let g:ctrlp_working_path_mode = 'ra'
+set wildignore+=*/.cache/*     " Linux/MacOSX
+set wildignore+=*cscope*     " Linux/MacOSX
+"let g:ctrlp_custom_ignore = {  
+"\ 'dir':  '\v[\/]\.(git|hg|svn)$',
+"\ 'file': '\v\.(exe|so|dll|jar|cjr|vcproj|o|lib|0|gif|apache|png|tif|tar|jpg|icc|xls|pdf|class|zip|a|eclipse)$',
+"\}
+
+"let g:ctrlp_custom_ignore = '\v[\/]\.(exe|so|dll|jar|cjr|vcproj|o|lib|0|gif|apache|png|tif|tar|jpg|icc|xls|pdf|class|zip|a|eclipse|git|hg|svn)$'
+
+""let g:ctrlp_custom_ignore = '\v[\/]\.(git|hg|svn)$'
+""let g:ctrlp_custom_ignore = {
+""    \ 'dir':  '\v[\/]\.(git|hg|svn)$',
+""    \ 'file': '\v\.(exe|so|dll)$',
+""    \ 'link': 'SOME_BAD_SYMBOLIC_LINKS',
+""    \ }
+"    \ 'func': 'some#custom#match_function' - add this inside the custom_ignore_block
+
+
+let g:ctrlp_use_caching = 1
+"let g:ctrlp_cache_dir = '$root/.cache/ctrlp'
+let g:ctrlp_cache_dir = '/media/gjdev75/pasarica/mainline_ctb/.cache/ctrlp'
+"set tags=$root/tags
+
+autocmd VimEnter * nested :TagbarOpen

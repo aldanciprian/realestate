@@ -1,0 +1,13 @@
+*/
+*.c
+*.cc
+*.cpp
+*.h
+*.hpp
+*.S
+*.cr
+*.prod
+*.prb
+*.gjp
+*makefile*
+*make.*

@@ -1,0 +1,3 @@
+rsync -av /media/gjdev75/pasarica/console/ console
+grep -Palr '\x00' .   # binary search files
+grep -rli 'old-word' * | xargs -i@ sed -i 's/old-word/new-word/g' @
